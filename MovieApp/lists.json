@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "632b3384345b6a52ffe33440"
+  },
+  "created_by": "DuyHieu987",
+  "description": "List which users are added",
+  "favorite_count": 0,
+  "id": "8215569",
+  "items": [
+    {
+      "adult": false,
+      "backdrop_path": "/rcFkixO3vY2oyBM7NQsL3SPcXas.jpg",
+      "genre_ids": [],
+      "genres": [
+        {
+          "id": 16,
+          "name": "Animation"
+        },
+        {
+          "id": 10759,
+          "name": "Action & Adventure"
+        },
+        {
+          "id": 10751,
+          "name": "Family"
+        },
+        {
+          "id": 10762,
+          "name": "Kids"
+        },
+        {
+          "id": 10765,
+          "name": "Sci-Fi & Fantasy"
+        }
+      ],
+      "id": 19239,
+      "media_type": "tv",
+      "original_language": "ja",
+      "overview": "After the great disaster of 2008, a war that destroyed the planet, the world is now largely ocean with the continents having sunk. Conan lives on a remote island with his grandpa and nature, never having seen another human being. But one day a mysterious girl, Lana, washes up on his beach. The two become quick friends, but she’s soon kidnapped and taken to Industria, a technological remainder from the world before. Conan leaves his island in pursuit, braving new lands and many hardships with new friends and enemies just beyond the horizon.",
+      "popularity": 35.594,
+      "poster_path": "/tmlhwdTBA264iQF2Us5vWdKz1fE.jpg",
+      "first_air_date": "1978-04-04",
+      "name": "Conan, the Boy in Future",
+      "vote_average": 8.902,
+      "vote_count": 112,
+      "_id": {
+        "$oid": "6334f0582eaf7cad821a75ec"
+      }
+    }
+  ],
+  "item_count": 0,
+  "iso_639_1": "en",
+  "name": "List",
+  "poster_path": null
+}]

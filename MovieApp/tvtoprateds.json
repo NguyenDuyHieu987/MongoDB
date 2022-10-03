@@ -1,0 +1,4262 @@
+[{
+  "_id": {
+    "$oid": "632965eebed2a789dc0cf43d"
+  },
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/7q448EVOnuE3gVAx24krzO7SNXM.jpg",
+      "first_air_date": "2021-09-03",
+      "genre_ids": [
+        10764
+      ],
+      "id": 130392,
+      "name": "The D'Amelio Show",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The D'Amelio Show",
+      "overview": "From relative obscurity and a seemingly normal life, to overnight success and thrust into the Hollywood limelight overnight, the D’Amelios are faced with new challenges and opportunities they could not have imagined.",
+      "popularity": 23.218,
+      "poster_path": "/z0iCS5Znx7TeRwlYSd4c01Z0lFx.jpg",
+      "vote_average": 9.1,
+      "vote_count": 2924
+    },
+    {
+      "backdrop_path": "/igxqysAqY84xQISHbZllwV67JPr.jpg",
+      "first_air_date": "1978-04-04",
+      "genre_ids": [
+        16,
+        10759,
+        10751,
+        10762,
+        10765
+      ],
+      "id": 19239,
+      "name": "Conan, the Boy in Future",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "未来少年コナン",
+      "overview": "After the great disaster of 2008, a war that destroyed the planet, the world is now largely ocean with the continents having sunk. Conan lives on a remote island with his grandpa and nature, never having seen another human being. But one day a mysterious girl, Lana, washes up on his beach. The two become quick friends, but she’s soon kidnapped and taken to Industria, a technological remainder from the world before. Conan leaves his island in pursuit, braving new lands and many hardships with new friends and enemies just beyond the horizon.",
+      "popularity": 30.392,
+      "poster_path": "/tmlhwdTBA264iQF2Us5vWdKz1fE.jpg",
+      "vote_average": 8.9,
+      "vote_count": 111
+    },
+    {
+      "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+      "first_air_date": "2021-11-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "id": 94605,
+      "name": "Arcane",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Arcane",
+      "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "popularity": 118.17,
+      "poster_path": "/xQ6GijOFnxTyUzqiwGpVxgfcgqI.jpg",
+      "vote_average": 8.8,
+      "vote_count": 2508
+    },
+    {
+      "backdrop_path": "/84XPpjGvxNyExjSuLQe0SzioErt.jpg",
+      "first_air_date": "2008-01-20",
+      "genre_ids": [
+        18
+      ],
+      "id": 1396,
+      "name": "Breaking Bad",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Breaking Bad",
+      "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+      "popularity": 616.09,
+      "poster_path": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "vote_average": 8.8,
+      "vote_count": 9836
+    },
+    {
+      "backdrop_path": "/iLR6tKvMu67oSK0DIgDutkPBaiy.jpg",
+      "first_air_date": "2018-07-08",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 80539,
+      "name": "Asobi Asobase - workshop of fun -",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "あそびあそばせ",
+      "overview": "During recess, Olivia, a foreign transfer student who doesn't know English, plays a game of \"look-the-other-way\" with Hanako Honda, a loud-mouthed airhead. Their rowdy behavior spurs the ire of Kasumi Nomura, a deadpan loner constantly teased by her older sister for her tendency to lose games. Not willing to compete, Kasumi declines Olivia's offer to join the fun, but eventually gets involved anyway and dispenses her own brand of mischief. Soon, a strange friendship blossoms between the peculiar trio, and they decide to form the \"Pastime Club,\" where they are free to resume their daily hijinks.\n\nWhether it be failing to learn English, trying desperately to become popular, or getting caught by teachers at the wrong time, school life will never be boring when these girls are up to their hilarious antics.",
+      "popularity": 18.713,
+      "poster_path": "/zWE3bnCILcRpfQCsxBkMsgcEjOE.jpg",
+      "vote_average": 8.8,
+      "vote_count": 111
+    },
+    {
+      "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+      "first_air_date": "2013-12-02",
+      "genre_ids": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "id": 60625,
+      "name": "Rick and Morty",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Rick and Morty",
+      "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "popularity": 2075.747,
+      "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+      "vote_average": 8.7,
+      "vote_count": 6990
+    },
+    {
+      "backdrop_path": "/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
+      "first_air_date": "2017-03-19",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 70785,
+      "name": "Anne with an E",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Anne with an E",
+      "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890’s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+      "popularity": 132.471,
+      "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+      "vote_average": 8.7,
+      "vote_count": 4017
+    },
+    {
+      "backdrop_path": "/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "first_air_date": "2016-04-03",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 65930,
+      "name": "My Hero Academia",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "僕のヒーローアカデミア",
+      "overview": "In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.",
+      "popularity": 78.84,
+      "poster_path": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3847
+    },
+    {
+      "backdrop_path": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+      "first_air_date": "2016-12-02",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 67915,
+      "name": "Goblin",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "쓸쓸하고 찬란하神-도깨비",
+      "overview": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
+      "popularity": 160.519,
+      "poster_path": "/c2gon6zbqzL73DOl8mPQMMUJXvE.jpg",
+      "vote_average": 8.7,
+      "vote_count": 2274
+    },
+    {
+      "backdrop_path": "/A702KA1gXlI3hB33hdhwPM708pY.jpg",
+      "first_air_date": "2011-10-02",
+      "genre_ids": [
+        10759,
+        16,
+        18
+      ],
+      "id": 46298,
+      "name": "Hunter x Hunter",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハンターｘハンター",
+      "overview": "Twelve-year-old Gon Freecss one day discovers that the father he had always been told was dead was alive. His Father, Ging, is a Hunter — a member of society's elite with a license to go anywhere or do almost anything. Gon, determined to follow in his father's footsteps, decides to take the Hunter Examination and eventually find his father to prove himself as a Hunter in his own right. But on the way, he learns that there is more to becoming a Hunter than previously thought, and the challenges that he must face are considered the toughest in the world.",
+      "popularity": 188.49,
+      "poster_path": "/tolQj5yffSxkEGXusPwNcvYrbph.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1208
+    },
+    {
+      "backdrop_path": "/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+      "first_air_date": "2018-01-13",
+      "genre_ids": [
+        16
+      ],
+      "id": 76121,
+      "name": "DARLING in the FRANXX",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ダーリン・イン・ザ・フランキス",
+      "overview": "The story is set in the distant future. The land is ruined, and humanity establishes the mobile fort city Plantation. Pilots produced inside Plantation live in Mistilteinn, also know as the \"birdcage.\" Children live there knowing nothing of the outside world or the freedom of the sky. Their lives consist of battling to carry out missions. Their enemies are mysterious giant lifeforms known as Kyouryuu, and the children pilot robots called Franxx to face off against them. For the children, riding the Franxx proves their existence.\n\nA boy named Hiro is called Code:016, and he was once known as a prodigy. However, he has fallen behind, and his existence seems unnecessary. Not piloting a Franxx is the same as ceasing to exist. One day, a mysterious girl known as \"Zero Two\" appears before him. Two horns grow out of her head.",
+      "popularity": 62.18,
+      "poster_path": "/yyUxeNpQoD23XWEdPXLJRGQEtHT.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1595
+    },
+    {
+      "backdrop_path": "/c8dm74uPCMA27iKAR1WnHKTsI9h.jpg",
+      "first_air_date": "2015-08-01",
+      "genre_ids": [
+        10764
+      ],
+      "id": 77696,
+      "name": "Run BTS!",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "달려라 방탄!",
+      "overview": "Run BTS! is a South Korean show by the boy-group BTS. The show is all about BTS doing activities, challenges and lots more.",
+      "popularity": 22.88,
+      "poster_path": "/xxv8Ibs8Anni6qrWkAf60rDsPCu.jpg",
+      "vote_average": 8.7,
+      "vote_count": 296
+    },
+    {
+      "backdrop_path": "/mWwWhDiQWONiSS4Go12TTjNw0E5.jpg",
+      "first_air_date": "2016-10-06",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 68129,
+      "name": "Yuri!!! on Ice",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ユーリ!!! on ICE",
+      "overview": "Yuuri Katsuki carried all of Japan's hopes on his shoulders to win at the Gran Prix Finale ice skating competition, but suffered a crushing defeat. He returns home to Kyushu and half feels like he wants to retire, and half feels like he wants to continue ice skating. Suddenly the five-time consecutive world championship ice skater Victor Nikiforov appears before him with Yuri Plisetsky, a young Russian figure skater who is already defeating his seniors. Victor and both Yuris take up the challenge on an unprecedented Gran Prix series.",
+      "popularity": 19.763,
+      "poster_path": "/oKVFf2uNCLMsovWBxAW14MmhHUm.jpg",
+      "vote_average": 8.7,
+      "vote_count": 513
+    },
+    {
+      "backdrop_path": "/mBxsapX4DNhH1XkOlLp15He5sxL.jpg",
+      "first_air_date": "1999-10-20",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "id": 37854,
+      "name": "One Piece",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates. Monkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
+      "popularity": 110.498,
+      "poster_path": "/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3252
+    },
+    {
+      "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+      "first_air_date": "2019-04-06",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 85937,
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鬼滅の刃",
+      "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+      "popularity": 113.606,
+      "poster_path": "/wrCVHdkBlBWdJUZPvnJWcBRuhSY.jpg",
+      "vote_average": 8.7,
+      "vote_count": 4341
+    },
+    {
+      "backdrop_path": "/o3Htmlg6BfNs8Ew7yjsRzVnYSEs.jpg",
+      "first_air_date": "2019-12-14",
+      "genre_ids": [
+        18,
+        35,
+        10768
+      ],
+      "id": 94796,
+      "name": "Crash Landing on You",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "사랑의 불시착",
+      "overview": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide.",
+      "popularity": 52.002,
+      "poster_path": "/bXo9sDqMmo4dEOPSPLR7sdYPTvz.jpg",
+      "vote_average": 8.7,
+      "vote_count": 357
+    },
+    {
+      "backdrop_path": "/eKu4zq639EeSVGu5xWPPHKzju66.jpg",
+      "first_air_date": "2013-10-03",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 67389,
+      "name": "Golden Time",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ゴールデンタイム",
+      "overview": "Banri Tada is a freshman at a Tokyo law school. After an accident, he suffers severe memory loss. Despite the incident, he befriends fellow freshman, Mitsuo Yanagisawa, which leads him to the beautiful, yet obsessive, Kouko Kaga.",
+      "popularity": 33.355,
+      "poster_path": "/qp4eHCZMR14dtubvzr67PZqH5fa.jpg",
+      "vote_average": 8.7,
+      "vote_count": 480
+    },
+    {
+      "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+      "first_air_date": "2021-03-25",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18
+      ],
+      "id": 95557,
+      "name": "Invincible",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+      "popularity": 82.393,
+      "poster_path": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3193
+    },
+    {
+      "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+      "first_air_date": "2010-09-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 31132,
+      "name": "Regular Show",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Regular Show",
+      "overview": "Two bored groundskeepers, Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) are best friends who spend their days trying to entertain themselves by any means necessary, much to the displeasure of their boss. Their everyday pursuits often lead to things spiraling out of control and into the surreal.",
+      "popularity": 272.607,
+      "poster_path": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1539
+    },
+    {
+      "backdrop_path": "/5J4f4XDeRg7c7bHcXK26e1gkb0t.jpg",
+      "first_air_date": "2018-10-04",
+      "genre_ids": [
+        16,
+        35,
+        9648
+      ],
+      "id": 82739,
+      "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+      "overview": "Puberty Syndrome—a rumored, mysterious syndrome that only affects those in their puberty. For example, a bunny girl suddenly appeared in front of Sakuta Azusagawa. The bunny girl's real identity is Mai Sakurajima, a teenage celebrity who is currently an inactive high school senior. For some reason, her charming figure does not reflect in the eyes of others. In the course of revealing the mystery behind this phenomenon, Sakuta begins to explore his feelings towards Mai. Set in a city where the skies and seas shine, Sakuta unfolds the meaning behind his bizarre encounters on women with the said syndrome.",
+      "popularity": 70.353,
+      "poster_path": "/cU4jHfo1Q9AEPnFqFqtuSA74gdi.jpg",
+      "vote_average": 8.7,
+      "vote_count": 978
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "632965f1bed2a789dc0cf43e"
+  },
+  "page": 2,
+  "results": [
+    {
+      "backdrop_path": "/zbBNp4djy9dGOfMzVBQoP1ZAdET.jpg",
+      "first_air_date": "2017-06-19",
+      "genre_ids": [
+        35,
+        10751
+      ],
+      "id": 72637,
+      "name": "Once",
+      "origin_country": [
+        "AR"
+      ],
+      "original_language": "es",
+      "original_name": "O11CE",
+      "overview": "The series revolves around Gabo, a soccer-loving teenager who, upon receiving a scholarship from the prestigious Sports Academic Institute (IAD) of Buenos Aires, will see his dream of playing at Los Halcones Dorados, the renowned amateur team of the school, and also his longing to become a professional footballer.",
+      "popularity": 181.227,
+      "poster_path": "/d4vPg3QsTJJh6C5MHARTb5CyqOu.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1166
+    },
+    {
+      "backdrop_path": "/2f8OLO6UYp78dIQMs0oi7ja15Bl.jpg",
+      "first_air_date": "2010-04-02",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 65648,
+      "name": "Maid Sama!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "会長はメイド様！",
+      "overview": "Misaki Ayuzawa is the first female student council president at a once all-boys school turned co-ed. She rules the school with strict discipline demeanor. But she has a secret—she works at a maid cafe due to her families circumstances. One day the popular A-student and notorious heart breaker Takumi Usui finds out her secret and makes a deal with her to keep it hush from the school in exchange for spending some time with him.",
+      "popularity": 31.117,
+      "poster_path": "/igkn0M1bgMeATz59LShvVxZNdVd.jpg",
+      "vote_average": 8.7,
+      "vote_count": 480
+    },
+    {
+      "backdrop_path": "/mfJaxLH7Z8MyotsJmr0zuRhfmnI.jpg",
+      "first_air_date": "2020-01-10",
+      "genre_ids": [
+        16,
+        10765,
+        10751,
+        10759,
+        35
+      ],
+      "id": 92685,
+      "name": "The Owl House",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Owl House",
+      "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+      "popularity": 144.64,
+      "poster_path": "/f3Dd784YEpaWaJUyRCkhiaKxgB0.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1160
+    },
+    {
+      "backdrop_path": "/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "first_air_date": "2019-01-12",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 83121,
+      "name": "Kaguya-sama: Love Is War",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+      "popularity": 82.234,
+      "poster_path": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+      "vote_average": 8.7,
+      "vote_count": 550
+    },
+    {
+      "backdrop_path": "/uAjMQlbPkVHmUahhCouANlHSDW2.jpg",
+      "first_air_date": "2019-01-11",
+      "genre_ids": [
+        16,
+        9648,
+        10765,
+        10759,
+        18,
+        80
+      ],
+      "id": 83097,
+      "name": "The Promised Neverland",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "約束のネバーランド",
+      "overview": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage — a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family... never to be heard from again.\n\nHowever, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama.",
+      "popularity": 46.855,
+      "poster_path": "/oBgRCpAbtMpk1v8wfdsIph7lPQE.jpg",
+      "vote_average": 8.7,
+      "vote_count": 848
+    },
+    {
+      "backdrop_path": "/fXME4R2kk306okBGnFQDttTdKdk.jpg",
+      "first_air_date": "2009-11-28",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 31356,
+      "name": "Big Time Rush",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Big Time Rush",
+      "overview": "Four teenage friends move from Minneapolis to Los Angeles to form a potential chart-topping boy band after Kendall is inadvertently discovered by an eccentric record executive, Gustavo Rocque. As they seize this opportunity of a lifetime, these friends embark on an exciting comedy and music-filled journey to prove to themselves and their record label that they are serious about their new career choice.",
+      "popularity": 62.013,
+      "poster_path": "/fERf3WFpKEHRil2CCX87ubsQRZ9.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1470
+    },
+    {
+      "backdrop_path": "/rS7x1T2ZO57T61nKKgLoRUT0bw2.jpg",
+      "first_air_date": "2016-01-14",
+      "genre_ids": [
+        10759,
+        16,
+        35,
+        10765
+      ],
+      "id": 65844,
+      "name": "KonoSuba – God's blessing on this wonderful world!!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "この素晴らしい世界に祝福を！",
+      "overview": "After a traffic accident, Kazuma Sato’s  disappointingly brief life was supposed to be over, but he wakes up to  see a beautiful girl before him. She claims to be a goddess, Aqua, and  asks if he would like to go to another world and bring only one thing  with him. Kazuma decides to bring the goddess herself, and they are  transported to a fantasy world filled with adventure, ruled by a demon  king. Now Kazuma only wants to live in peace, but Aqua wants to solve  many of this world’s problems, and the demon king will only turn a blind  eye for so long…",
+      "popularity": 74.604,
+      "poster_path": "/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1055
+    },
+    {
+      "backdrop_path": "/9eRCIamWgdQIQMkZOxS2Vfq2mb5.jpg",
+      "first_air_date": "2010-04-23",
+      "genre_ids": [
+        16,
+        10759,
+        10762,
+        10751,
+        9648
+      ],
+      "id": 32118,
+      "name": "Generator Rex",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Generator Rex",
+      "overview": "Generator Rex, an average teenager with the ability to turn his body into amazing machines, helps the secret organization Providence save the world from the nanite threat and dangerous EVO monsters.",
+      "popularity": 30.014,
+      "poster_path": "/fL7S22SWWOjJTgHEkk68VZ4Z8RO.jpg",
+      "vote_average": 8.7,
+      "vote_count": 275
+    },
+    {
+      "backdrop_path": "/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "first_air_date": "2009-04-05",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "id": 31911,
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "overview": "Edward and Alphonse Elric's reckless disregard for alchemy's fun­damental laws ripped half of Ed's limbs from his body and left Al's soul clinging to a cold suit of armor. To restore what was lost, the brothers scour a war-torn land for the Philosopher's Sto­ne, a fabled relic which grants the ability to perform alchemy in impossible ways.\n\nThe Elrics are not alone in their search; the corrupt State Military is also eager to harness the artifact's power. So too are the strange Homunculi and their shadowy creator. The mythical gem lures exotic alchemists from distant kingdoms, scarring some deeply enough to inspire murder. As the Elrics find their course altered by these enemies and allies, their purpose remains unchanged – and their bond unbreakable.",
+      "popularity": 103.504,
+      "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1422
+    },
+    {
+      "backdrop_path": "/1ejS56lC8db62IKVj1pTQlfAEQy.jpg",
+      "first_air_date": "2018-09-13",
+      "genre_ids": [
+        10759,
+        16,
+        18,
+        10751
+      ],
+      "id": 123566,
+      "name": "Metal Family",
+      "origin_country": [
+        "RU"
+      ],
+      "original_language": "ru",
+      "original_name": "Metal Family",
+      "overview": "Metal Family follows the daily lives of Glam and Victoria, two metal fans that fell in love and had two children together, Dee and Heavy.",
+      "popularity": 65.775,
+      "poster_path": "/yovTSLBdNjXIVo8CPaPWFE5NcAw.jpg",
+      "vote_average": 8.7,
+      "vote_count": 340
+    },
+    {
+      "backdrop_path": "/z4wDYybbhuKCdYydZnULl7sNQpC.jpg",
+      "first_air_date": "2018-11-13",
+      "genre_ids": [
+        16,
+        10762,
+        10765
+      ],
+      "id": 79732,
+      "name": "She-Ra and the Princesses of Power",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "She-Ra and the Princesses of Power",
+      "overview": "In this reboot of the '80s series, a magic sword transforms an orphan girl into warrior She-Ra, who unites a rebellion to fight against evil.",
+      "popularity": 28.513,
+      "poster_path": "/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg",
+      "vote_average": 8.7,
+      "vote_count": 613
+    },
+    {
+      "backdrop_path": "/u8QK47ttafn3iYox9o1dKyEEhcv.jpg",
+      "first_air_date": "2012-01-06",
+      "genre_ids": [
+        16,
+        10759,
+        35,
+        10765
+      ],
+      "id": 45950,
+      "name": "High School DxD",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハイスクールD×D",
+      "overview": "The story follows Issei Hyōdō, a dim-witted, lecherous second-year high school student who is killed by a girl on his first date ever. Issei is reincarnated as a devil, and from that day forward, he serves as an underling of Riasu, a high-level devil who is also the prettiest girl on Issei's campus.",
+      "popularity": 208.505,
+      "poster_path": "/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1517
+    },
+    {
+      "backdrop_path": "/zoyAniOyCnlkys5ra9EbzVyPuiv.jpg",
+      "first_air_date": "2016-11-16",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 68349,
+      "name": "Weightlifting Fairy Kim Bok-Joo",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "역도요정 김복주",
+      "overview": "A spunky female weightlifter and free-spirited male swimmer meet on campus, only to find out their pasts may be intertwined.",
+      "popularity": 49.754,
+      "poster_path": "/4CrTjZ5MYdF5dtSockIStCkiX5C.jpg",
+      "vote_average": 8.7,
+      "vote_count": 632
+    },
+    {
+      "backdrop_path": "/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "first_air_date": "1992-10-10",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 30669,
+      "name": "Yu Yu Hakusho",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "幽☆遊☆白書",
+      "overview": "One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic. Since he has such a bad personality, even the Spirit World was caught by surprise that he would sacrifice himself. Yusuke soon finds out he wasn't supposed to die and has a chance for resurrection and bringing his body back to life. After being resurrected, Yusuke becomes a Spirit Detective, along with his comrades, and one adventure after another happens, whether it be an investigation or a fighting tournament.",
+      "popularity": 53.305,
+      "poster_path": "/qyqnXUsMSCWXL5vHLRhu6xiNdmK.jpg",
+      "vote_average": 8.7,
+      "vote_count": 340
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2004-05-10",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 100,
+      "name": "I Am Not an Animal",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "I Am Not an Animal",
+      "overview": "I Am Not An Animal is an animated comedy series about the only six talking animals in the world, whose cosseted existence in a vivisection unit is turned upside down when they are liberated by animal rights activists.",
+      "popularity": 9.506,
+      "poster_path": "/qG59J1Q7rpBc1dvku4azbzcqo8h.jpg",
+      "vote_average": 8.7,
+      "vote_count": 761
+    },
+    {
+      "backdrop_path": "/i987SrMmgf7hk3EYAARHZ4q4KvX.jpg",
+      "first_air_date": "2016-08-29",
+      "genre_ids": [
+        18,
+        10765,
+        10768
+      ],
+      "id": 66433,
+      "name": "Scarlet Heart: Ryeo",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "달의 연인 - 보보경심 려",
+      "overview": "A story of a 25-year old Go Ha-jin who is transported back in time to the Goryeo Dynasty. She then wakes up in the body of Lady Hae-soo and finds herself amongst the ruling princes of the Wang Family.",
+      "popularity": 38.439,
+      "poster_path": "/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg",
+      "vote_average": 8.7,
+      "vote_count": 396
+    },
+    {
+      "backdrop_path": "/6xbkkVwqUBxvqfSpU0qBIplDT5S.jpg",
+      "first_air_date": "2020-06-17",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 97186,
+      "name": "Love, Victor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Love, Victor",
+      "overview": "Victor is a new student at Creekwood High School on his own journey of self-discovery, facing challenges at home, adjusting to a new city, and struggling with his sexual orientation. When it all seems too much, he reaches out to Simon to help him navigate the ups and downs of high school.",
+      "popularity": 48.152,
+      "poster_path": "/q2imPCUHRG1zD2nIAodzgrmEDMB.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1367
+    },
+    {
+      "backdrop_path": "/legulSo298h0xPqwQ2y1k9bSzxo.jpg",
+      "first_air_date": "2020-01-10",
+      "genre_ids": [
+        16,
+        9648,
+        35
+      ],
+      "id": 95269,
+      "name": "Toilet-Bound Hanako-kun",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "地縛少年花子くん",
+      "overview": "The famous \"Seven Wonders\" that every school seems to have are a staple of Japanese urban legends. One of the most well-known of these tales is that of Hanako-san: the ghost of a young girl who haunts the school's bathrooms.\n\nKamome Academy has its own version of Hanako-san's legend. Rumors claim that if one successfully manages to summon Hanako-san, she will grant her summoner any wish. Lured by the gossip, many people have tried to call upon her, yet every attempt has failed. However, when Nene Yashiro, a girl hoping for romantic fortune, dares to summon Hanako-san, she discovers that the rumored \"girl\" is actually a boy!\n\nAfter a series of unfortunate events involving Nene's romantic desires, she is unwillingly entangled in the world of the supernatural, becoming Hanako-kun's assistant. Soon, she finds out about Hanako-kun's lesser-known duty: maintaining the fragile balance between mortals and apparitions.",
+      "popularity": 49.588,
+      "poster_path": "/qp2XSpNzopObSPkSAi7sujAsdh3.jpg",
+      "vote_average": 8.7,
+      "vote_count": 602
+    },
+    {
+      "backdrop_path": "/12mYMPE7Jy7rhDv0rn95GEtF94V.jpg",
+      "first_air_date": "2014-04-06",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 60863,
+      "name": "Haikyu!!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ハイキュー!!",
+      "overview": "Based off of the original Weekly Shonen Jump manga series from Haruichi Furudate, Haikyu!! is a slice-of-life sports anime revolving around Shouyou Hinata's love of volleyball. Inspired by a small-statured pro volleyball player, Hinata creates a volleyball team in his last year of middle school. Unfortunately the team is matched up against the \"King of the Court\" Tobio Kageyama's team in their first tournament and inevitably lose. After the crushing defeat, Hinata vows to surpass Kageyama. After entering high school, Hinata joins the volleyball team only to find that Tobio has also joined.",
+      "popularity": 61.148,
+      "poster_path": "/ecQ84z2sR0XapZu435MnFuEBzD8.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1026
+    },
+    {
+      "backdrop_path": "/y8DX7y9vvUcc0uKYd7USO9QkTg6.jpg",
+      "first_air_date": "1993-10-16",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 42573,
+      "name": "Slam Dunk",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "スラムダンク",
+      "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+      "popularity": 53.565,
+      "poster_path": "/65Xo6gKpREqXpzliLx9PYqSQ4O.jpg",
+      "vote_average": 8.7,
+      "vote_count": 697
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "6329660dbed2a789dc0cf43f"
+  },
+  "page": 3,
+  "results": [
+    {
+      "backdrop_path": "/moTJDVjvgoYUxFrBbzBQwg35NyA.jpg",
+      "first_air_date": "2017-05-15",
+      "genre_ids": [
+        16
+      ],
+      "id": 98214,
+      "name": "Villainous",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "Villanos",
+      "overview": "Follow the misadventures of the Black Hat Org. with evil handyman Black Hat and his less evil aides Dr. Flugslys, Demencia, 5.0.5, Cam Bot, and Penumbra.",
+      "popularity": 17.056,
+      "poster_path": "/uKtxJqOeB74Lm6ZNCyEqMaFlXbp.jpg",
+      "vote_average": 8.7,
+      "vote_count": 274
+    },
+    {
+      "backdrop_path": "/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
+      "first_air_date": "2013-04-09",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10751
+      ],
+      "id": 80040,
+      "name": "Desafío Champions Sendokai",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Desafío Champions Sendokai",
+      "overview": "",
+      "popularity": 10.277,
+      "poster_path": "/eufjrVnmheraU6zPUl5tCdphyy0.jpg",
+      "vote_average": 8.7,
+      "vote_count": 147
+    },
+    {
+      "backdrop_path": "/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
+      "first_air_date": "2016-01-08",
+      "genre_ids": [
+        16,
+        18,
+        9648
+      ],
+      "id": 65249,
+      "name": "ERASED",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "僕だけがいない街",
+      "overview": "Satoru Fujinuma is a struggling manga artist who has the ability to turn back time and prevent deaths. When his mother is killed he turns back time to solve the mystery, but ends up back in elementary school, just before the disappearance of his classmate Kayo.",
+      "popularity": 32.665,
+      "poster_path": "/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg",
+      "vote_average": 8.7,
+      "vote_count": 770
+    },
+    {
+      "backdrop_path": "/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg",
+      "first_air_date": "2019-07-05",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 86031,
+      "name": "Dr. Stone",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ドクターストーン",
+      "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he's not alone! His science-loving friend Senku's been up and running for a few months and he's got a grand plan in mind, to kickstart civilization with the power of science!",
+      "popularity": 19.311,
+      "poster_path": "/64DIVpWiGlvvJczMnyu8jojSYKm.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1090
+    },
+    {
+      "backdrop_path": "/4sSzTvk200BQyYjRJq69mLwE9xG.jpg",
+      "first_air_date": "2018-04-25",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10759
+      ],
+      "id": 79141,
+      "name": "Scissor Seven",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "刺客伍六七",
+      "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
+      "popularity": 69.053,
+      "poster_path": "/A39DWUIrf9WDRHCg7QTR8seWUvi.jpg",
+      "vote_average": 8.7,
+      "vote_count": 480
+    },
+    {
+      "backdrop_path": "/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+      "first_air_date": "2019-07-12",
+      "genre_ids": [
+        10765,
+        18,
+        35
+      ],
+      "id": 90447,
+      "name": "Hotel Del Luna",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "호텔 델루나",
+      "overview": "The Hotel Del Luna, located in Seoul, is not like any other hotel: its clients are all ghosts. Jang Man-wol, stuck in the hotel for the past millennium, meets Goo Chan-sung, the new manager.",
+      "popularity": 38.478,
+      "poster_path": "/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+      "vote_average": 8.7,
+      "vote_count": 409
+    },
+    {
+      "backdrop_path": "/jwAUfgwFEzMYUh3lUht8VBB1SU7.jpg",
+      "first_air_date": "2018-04-04",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 77721,
+      "name": "Real Girl",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "３Ｄ彼女　リアルガール",
+      "overview": "Tsutsui Hikari (a.k.a \"Tsuttsun\") is a high school student who is content with his virtual life of anime and video games. One day, he gets stuck cleaning the pool with Iroha, a real live girl who is stylish, sassy and known to be easy with boys ... and she aggressively approaches him! Tsuttsun, who has few friends and lives in his own world, finds himself smitten by the confident and wild Iroha ... and his whole world is turned upside down!! It's the awkward and pure love story of a boy who experiences relationship for the first time.",
+      "popularity": 31.873,
+      "poster_path": "/3UmNynM1YXkYylyontGXPHncjOC.jpg",
+      "vote_average": 8.7,
+      "vote_count": 398
+    },
+    {
+      "backdrop_path": "/vP6jiaPmzgHF5YyvrkK44PJGmyR.jpg",
+      "first_air_date": "2020-12-12",
+      "genre_ids": [
+        18,
+        35,
+        10765
+      ],
+      "id": 108261,
+      "name": "Mr. Queen",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "철인왕후",
+      "overview": "In the modern age, Jang Bong-hwan is a chef who works for the country's top politicians at the Blue House. He has a free spirit, but he one day finds himself in the body of Queen Cheorin in the Joseon period.",
+      "popularity": 29.623,
+      "poster_path": "/yrZkfrMLBi9tmNrDJpiMqjEv1S1.jpg",
+      "vote_average": 8.7,
+      "vote_count": 254
+    },
+    {
+      "backdrop_path": "/790rH1ByeDJg6VPwBFxdzxHRepI.jpg",
+      "first_air_date": "2019-04-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 85990,
+      "name": "Hitori Bocchi no Marumaru Seikatsu",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ひとりぼっちの○○生活",
+      "overview": "Hitori Bocchi suffers from extreme social anxiety, she's not good at talking to people, takes pretty extreme actions, is surprisingly adept at avoiding people, her legs cramp when she overexerts herself, gets full of herself when alone, will vomit when exposed to extreme tension and often comes up with plans. Now she is entering middle school and her only friend, Yawara Kai, is attending a different school. This leaves Bocchi alone, surrounded by new classmates with whom she must make friends before Kai will talk to her again.",
+      "popularity": 11.845,
+      "poster_path": "/btoTzCw3zmjRtB99g2M5Mw2GUQG.jpg",
+      "vote_average": 8.7,
+      "vote_count": 126
+    },
+    {
+      "backdrop_path": "/lmiJDVIrcwp7062c0HbnIZ2dmQS.jpg",
+      "first_air_date": "2015-07-09",
+      "genre_ids": [
+        16,
+        18,
+        9648,
+        10765
+      ],
+      "id": 63495,
+      "name": "SCHOOL-LIVE!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "がっこうぐらし!",
+      "overview": "Yuki Takeya, Kurumi Ebisuzawa, Yuri Wakasa, and Miki Naoki decide to stay over at school. Along with the school adviser Megumi Sakura, they suddenly find themselves to be the final survivors of a zombie attack, and continue to live and survive at the school.",
+      "popularity": 15.162,
+      "poster_path": "/46C5g7zAN4KHfZQBaJamyWia8l0.jpg",
+      "vote_average": 8.7,
+      "vote_count": 105
+    },
+    {
+      "backdrop_path": "/qCPusV7wkA2PkwSeFNYgIgda5yc.jpg",
+      "first_air_date": "2020-01-07",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 96150,
+      "name": "Seton Academy: Join the Pack!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "群れなせ！シートン学園",
+      "overview": "Seton Academy, a school full of animals where, thanks to population decline, there are fewer humans than any other creature. Mazama Jin, an animal hater and the only human male in his class, falls in love with Hino Hitomi, the only female human, the moment he lays eyes her. However he soon finds himself entangled with various other creatures after he reluctantly joins the 'pack' of Lanka the wolf, the only other member of her pack. After getting to know each other, the two decide to create a cooking club, and after a few bad-blooded misunderstandings, Ranka soon joins the club as well.\n\nThus begins the howl-some and howl-arious story of two normal humans; an adorable wolf; a cheerful koala; a sluggish, blonde sloth; and a feline with cattitude in their newfound club—in a story that teaches that friendship can be forged by creatures of different kinds.",
+      "popularity": 24.057,
+      "poster_path": "/yXSH5BYOhYt26S5x7Aqz2VXj6P1.jpg",
+      "vote_average": 8.7,
+      "vote_count": 216
+    },
+    {
+      "backdrop_path": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "first_air_date": "2012-10-06",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 45790,
+      "name": "JoJo's Bizarre Adventure",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ジョジョの奇妙な冒険",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "popularity": 113.66,
+      "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1027
+    },
+    {
+      "backdrop_path": "/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+      "first_air_date": "2020-10-26",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 99489,
+      "name": "The Penthouse",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "펜트하우스",
+      "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+      "popularity": 37.703,
+      "poster_path": "/33WzWRlmxjpW00zOGin6qrx6iqU.jpg",
+      "vote_average": 8.7,
+      "vote_count": 168
+    },
+    {
+      "backdrop_path": "/7pCIWCBrsgB8tLBb4WRdhp1OtR7.jpg",
+      "first_air_date": "2020-09-06",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 97890,
+      "name": "Power Book II: Ghost",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Power Book II: Ghost",
+      "overview": "Picking up just days after the “Power” finale, this sequel series follows Tariq navigating his new life, in which his desire to shed his father’s legacy comes up against the mounting pressure to save his family.",
+      "popularity": 28.695,
+      "poster_path": "/8rbxvwGpPd9MWjdhAoSBj016cns.jpg",
+      "vote_average": 8.7,
+      "vote_count": 207
+    },
+    {
+      "backdrop_path": "/xzjZDyqUobuJtkBljhgLH4Fdnye.jpg",
+      "first_air_date": "2018-10-02",
+      "genre_ids": [
+        10759,
+        16,
+        10765,
+        35
+      ],
+      "id": 82684,
+      "name": "That Time I Got Reincarnated as a Slime",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "転生したらスライムだった件",
+      "overview": "37-year-old corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru Tempest, he begins his quest to create a world that’s welcoming to all races. Broken free from ordinary, stale past life, his fresh adventure in a fantasy world as a slime monster with unique abilities begins.",
+      "popularity": 54.905,
+      "poster_path": "/jQb1ztdko9qc4aCdnMXShcIHXRG.jpg",
+      "vote_average": 8.7,
+      "vote_count": 565
+    },
+    {
+      "backdrop_path": "/M0NvQAf3JQW3AuADYDhHwmhNCu.jpg",
+      "first_air_date": "1989-04-15",
+      "genre_ids": [
+        35,
+        10759,
+        16,
+        10765
+      ],
+      "id": 57706,
+      "name": "Ranma ½",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "らんま½",
+      "overview": "Saotome Ranma, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns in to a girl, and a cute, well-built red-head at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Tendo Akane, a girl who hates boys.",
+      "popularity": 104.524,
+      "poster_path": "/lT7HqWVZoSuMKsrSiib0l6eTKXc.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1089
+    },
+    {
+      "backdrop_path": "/zCJkiqMFoxcpYPKqhIhStEeVF2c.jpg",
+      "first_air_date": "1999-09-04",
+      "genre_ids": [
+        10759,
+        16,
+        35,
+        10765
+      ],
+      "id": 37419,
+      "name": "Zoids: Chaotic Century",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ゾイド",
+      "overview": "Van discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. The girl, who says her name is Fiona, wants to find something called \"Zoids Eve\", and so Van, the Organoid Zeke, and Fiona begin their adventure.",
+      "popularity": 27.076,
+      "poster_path": "/aVGuBvoBr9ujme4uUkAIRYk5vlt.jpg",
+      "vote_average": 8.7,
+      "vote_count": 271
+    },
+    {
+      "backdrop_path": "/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+      "first_air_date": "2021-02-20",
+      "genre_ids": [
+        10759,
+        35,
+        18
+      ],
+      "id": 117376,
+      "name": "Vincenzo",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "빈센조",
+      "overview": "Vincenzo Cassano is an Italian lawyer and Mafia consigliere who moves back to Korea due to a conflict within his organization. He ends up crossing paths with a sharp-tongued lawyer named Cha-young, and the two join forces in using villainous methods to take down villains who cannot be punished by the law.",
+      "popularity": 71.075,
+      "poster_path": "/dvXJgEDQXhL9Ouot2WkBHpQiHGd.jpg",
+      "vote_average": 8.7,
+      "vote_count": 598
+    },
+    {
+      "backdrop_path": "/tsf3msEsM0uTbtsuwmtSQnje4zJ.jpg",
+      "first_air_date": "2017-10-08",
+      "genre_ids": [
+        16,
+        10765,
+        18
+      ],
+      "id": 73833,
+      "name": "The Ancient Magus' Bride",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "魔法使いの嫁",
+      "overview": "Fifteen-year-old Chise has nothing and no one to live for. But that changes when she becomes the apprentice and future wife of inhuman mage, Elias.",
+      "popularity": 35.168,
+      "poster_path": "/vUm0WIGGgAnXYOSBeB36FKDpBjI.jpg",
+      "vote_average": 8.7,
+      "vote_count": 286
+    },
+    {
+      "backdrop_path": "/nElVHpGzdKCh6y4o2JkKV0VJhiy.jpg",
+      "first_air_date": "2015-09-14",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 62914,
+      "name": "Merlí",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "ca",
+      "original_name": "Merlí",
+      "overview": "TV series about a high school philosophy teacher, Merlí, who teaches in an original way, and about the students of his class, including his own son, and the relationship, friendship, love, and problems between the students of the class.\n\n",
+      "popularity": 84.157,
+      "poster_path": "/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
+      "vote_average": 8.7,
+      "vote_count": 911
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296611bed2a789dc0cf440"
+  },
+  "page": 4,
+  "results": [
+    {
+      "backdrop_path": "/zI8Qk7Eozl99rZhjAklJ2zSIPil.jpg",
+      "first_air_date": "2019-10-08",
+      "genre_ids": [
+        10759,
+        16,
+        18
+      ],
+      "id": 89456,
+      "name": "Primal",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Primal",
+      "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
+      "popularity": 510.201,
+      "poster_path": "/9jIatSC61s5Y3d5Q63yIeZFvP7u.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1015
+    },
+    {
+      "backdrop_path": "/baO2jzutSsHyDW7eJlSTAGUzSDx.jpg",
+      "first_air_date": "2015-04-09",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 62565,
+      "name": "My Love Story!!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "俺物語!!",
+      "overview": "Takeo Godau is a giant guy with a giant heart. Too bad the girls don't want him! (They always go for his good-looking best friend, Makoto Sunakawa.) Used to being on the sidelines, Takeo simply stands tall and accepts his fate. But one day when he saves a girl named Rinko Yamato from a harasser on the train, his (love!) life suddenly takes an incredible turn! Takeo can hardly believe it when he crosses paths with Rinko again, and he finds himself falling in love with her... But with handsome Suna around, does Takeo even stand a chance?",
+      "popularity": 30.413,
+      "poster_path": "/vDTSx6BuelrdAO1CjVGs9MuUnMP.jpg",
+      "vote_average": 8.7,
+      "vote_count": 302
+    },
+    {
+      "backdrop_path": "/qIRTvwih3jSJxCHZJlM51G6hFKH.jpg",
+      "first_air_date": "2000-10-03",
+      "genre_ids": [
+        16,
+        35,
+        18,
+        10759
+      ],
+      "id": 42705,
+      "name": "Fighting Spirit",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "はじめの一歩",
+      "overview": "Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his younger years like most teenagers. Always a target for bullying at school (the family fishing business grants him a distinct odor), Ippo's life is one of hardship. One of these after-school bullying sessions turns Ippo's life around for the better, as he is saved by a boxer named Takamura. He decides to follow in Takamura's footsteps and train to become a boxer, giving his life direction and purpose. Ippo's path to perfecting his pugilistic prowess is just beginning...",
+      "popularity": 165.672,
+      "poster_path": "/i3U3J2MWovIBZBnZYYiOLBXqNJZ.jpg",
+      "vote_average": 8.7,
+      "vote_count": 728
+    },
+    {
+      "backdrop_path": "/6tbyZtMYtiNzBy200VXku8jO9ws.jpg",
+      "first_air_date": "2019-04-07",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 87432,
+      "name": "We Never Learn: BOKUBEN",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ぼくたちは勉強ができない",
+      "overview": "Nariyuki Yuiga is in his last and most painful year of high school. In order to gain the “special VIP recommendation” which would grant him a full scholarship to college, he must now tutor his classmates as they struggle to prepare for entrance exams.\n\nAmong his pupils are “the sleeping beauty of the literary forest,” Fumino Furuhashi, and “the Thumbelina supercomputer,” Rizu Ogata–two of the most beautiful super-geniuses at the school! While these two were thought to be academically flawless, it turns out that they’re completely clueless outside of their pet subjects…!?\n\nAs Nariyuki’s life is turned upside down by these quirky girls who just never learn, he must do everything he can to get them accepted into college! The stage is set for this romantic comedy featuring prodigies who never learn when it comes to studying and love!",
+      "popularity": 39.341,
+      "poster_path": "/fG3VClLXTvE6MpR0x8fv2q4cpGD.jpg",
+      "vote_average": 8.7,
+      "vote_count": 220
+    },
+    {
+      "backdrop_path": "/dxw8XV246CpYnu8PPAid3Dx5x2P.jpg",
+      "first_air_date": "2019-11-01",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 89901,
+      "name": "Dickinson",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Dickinson",
+      "overview": "Emily Dickinson. Poet. Daughter. Total rebel. In this coming-of-age story, Emily’s determined to become the world’s greatest poet.",
+      "popularity": 58.434,
+      "poster_path": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+      "vote_average": 8.7,
+      "vote_count": 749
+    },
+    {
+      "backdrop_path": "/5nubzpKcNjV7zDwHkAV0J7yAJlH.jpg",
+      "first_air_date": "2021-07-01",
+      "genre_ids": [
+        18
+      ],
+      "id": 125910,
+      "name": "Young Royals",
+      "origin_country": [
+        "SE"
+      ],
+      "original_language": "sv",
+      "original_name": "Young Royals",
+      "overview": "Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated.",
+      "popularity": 36.853,
+      "poster_path": "/6CHznbr0BF78ar16zJwTVRYLLOX.jpg",
+      "vote_average": 8.7,
+      "vote_count": 695
+    },
+    {
+      "backdrop_path": "/zNugnnR5KEmq9EzLcl0Me1UmHYk.jpg",
+      "first_air_date": "2022-04-09",
+      "genre_ids": [
+        16,
+        35,
+        10759
+      ],
+      "id": 120089,
+      "name": "SPY x FAMILY",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "SPY×FAMILY",
+      "overview": "Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head! Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn't know is that the wife he's chosen is an assassin and the child he's adopted is a telepath!",
+      "popularity": 443.153,
+      "poster_path": "/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+      "vote_average": 8.7,
+      "vote_count": 725
+    },
+    {
+      "backdrop_path": "/ci7jTekDFEx6U48XUCl3vBMdrns.jpg",
+      "first_air_date": "2018-07-06",
+      "genre_ids": [
+        10759,
+        18,
+        9648,
+        16,
+        80
+      ],
+      "id": 80564,
+      "name": "Banana Fish",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "バナナフィッシュ",
+      "overview": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Vietnam has suddenly fallen into Papa's insatiably ambitious hands—and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance...",
+      "popularity": 32.474,
+      "poster_path": "/1UV5di9UIXwrpCW3xQ4RNli5hEV.jpg",
+      "vote_average": 8.7,
+      "vote_count": 745
+    },
+    {
+      "backdrop_path": "/11Pfh4yqjKbOgn5vY3AQD9VU4Vc.jpg",
+      "first_air_date": "2019-10-10",
+      "genre_ids": [
+        16,
+        18,
+        9648
+      ],
+      "id": 90937,
+      "name": "BEASTARS",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ビースターズ",
+      "overview": "In a world where beasts of all kinds coexist, a gentle wolf awakens to his own predatory urges as his school deals with a murder within its midst.",
+      "popularity": 49.346,
+      "poster_path": "/zKEFedE4KEUWdfPvjVC9G1VyEoK.jpg",
+      "vote_average": 8.7,
+      "vote_count": 949
+    },
+    {
+      "backdrop_path": "/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
+      "first_air_date": "2020-07-11",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 96316,
+      "name": "Rent-a-Girlfriend",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "彼女、お借りします",
+      "overview": "In today’s Japan, \"rental\" services can deliver an afternoon with a \"friend,\" a \"parent,\" even a fake girlfriend! Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month.  Completely spiteful, Kazuya gets just desperate enough to give it a try. But he quickly discovers how complicated it can be to \"rent\" an emotional connection… and his new \"girlfriend,\" Mizuhara Chizuru, who’s trying to keep her side hustle secret, will panic when she finds out her real life and Kazuya’s are intertwined in surprising ways! A reckless rom-com filled with love and excitement is about to begin!",
+      "popularity": 190.629,
+      "poster_path": "/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg",
+      "vote_average": 8.7,
+      "vote_count": 743
+    },
+    {
+      "backdrop_path": "/xdTwlG8MYAOkFuAGUqt8LgmgTNZ.jpg",
+      "first_air_date": "2012-10-02",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 62741,
+      "name": "Kamisama Kiss",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "神様はじめました",
+      "overview": "Nanami was just a normal high school girl down on her luck until a stranger’s lips marked her as the new Land God and turned her world upside down. Now, she’s figuring out the duties of a deity with the help of Tomoe, a reformed fox demon who reluctantly becomes her familiar in a contract sealed with a kiss. The new responsibilities—and boys—are a lot to handle, like the crow demon masquerading as a gorgeous pop idol and the adorable snake spirit who’s chosen the newly minted god to be his bride. As the headstrong Tomoe tries to whip her into shape, Nanami finds that love just might have cute, pointed fox ears. With romance in the air, will the human deity be able to prove herself worthy of her new title?",
+      "popularity": 59.009,
+      "poster_path": "/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+      "vote_average": 8.7,
+      "vote_count": 724
+    },
+    {
+      "backdrop_path": "/nLKYAJCEi6OQVji1HJIxSQ74H9s.jpg",
+      "first_air_date": "2005-02-21",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 246,
+      "name": "Avatar: The Last Airbender",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Avatar: The Last Airbender",
+      "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "popularity": 65.336,
+      "poster_path": "/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg",
+      "vote_average": 8.7,
+      "vote_count": 2909
+    },
+    {
+      "backdrop_path": "/mmEJYkP5mpWsgsJPxLulcL6y4Ir.jpg",
+      "first_air_date": "2020-10-31",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 95666,
+      "name": "Helluva Boss",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Helluva Boss",
+      "overview": "Follow Blitzo, a classic demon Imp who sets out to run his own small assassin business with his weapons specialist Moxxie, his bruiser Millie, and his receptionist hellhound Loona. Together they attempt to survive each other while running a startup in Hell.",
+      "popularity": 29.83,
+      "poster_path": "/mEHUgujxM62HtOyqNgZFENMIqgb.jpg",
+      "vote_average": 8.7,
+      "vote_count": 443
+    },
+    {
+      "backdrop_path": "/1nfIEJu02Zhv9omTKkzwHnK8Dji.jpg",
+      "first_air_date": "2017-10-29",
+      "genre_ids": [
+        99
+      ],
+      "id": 74313,
+      "name": "Blue Planet II",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Blue Planet II",
+      "overview": "There is nowhere more powerful and unforgiving yet more beautiful and compelling than the ocean. Join us and explore the greatest yet least known parts of our planet.",
+      "popularity": 11.739,
+      "poster_path": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+      "vote_average": 8.7,
+      "vote_count": 161
+    },
+    {
+      "backdrop_path": "/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+      "first_air_date": "2014-10-10",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 61663,
+      "name": "Your Lie in April",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "四月は君の嘘",
+      "overview": "Kousei Arima was a genius pianist until his mother's sudden death took away his ability to play. Each day was dull for Kousei. But, then he meets a violinist named Kaori Miyazono who has an eccentric playing style. Can the heartfelt sounds of the girl's violin lead the boy to play the piano again?",
+      "popularity": 45.375,
+      "poster_path": "/IGbeFv5Ji4W0x530JcSHiQpamY.jpg",
+      "vote_average": 8.7,
+      "vote_count": 761
+    },
+    {
+      "backdrop_path": "/6PkWizPnX97Z6v9i1aBh1BMWOj8.jpg",
+      "first_air_date": "2008-03-08",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 3854,
+      "name": "The Spectacular Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Spectacular Spider-Man",
+      "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
+      "popularity": 57.636,
+      "poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+      "vote_average": 8.7,
+      "vote_count": 595
+    },
+    {
+      "backdrop_path": "/7sqFEDDmK1hG5m92upolcfQxy7R.jpg",
+      "first_air_date": "2019-02-15",
+      "genre_ids": [
+        10759,
+        10765,
+        18
+      ],
+      "id": 75006,
+      "name": "The Umbrella Academy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Umbrella Academy",
+      "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "popularity": 167.518,
+      "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+      "vote_average": 8.7,
+      "vote_count": 8303
+    },
+    {
+      "backdrop_path": "/l4b42IaNVU2ZbdzjlaPmfFjqosV.jpg",
+      "first_air_date": "2012-04-08",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 45783,
+      "name": "Kuroko's Basketball",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "黒子のバスケ",
+      "overview": "In the story, Kagami Taiga has just enrolled into Seirin High School when he meets Kuroko Tetsuya of the school's basketball team. Kuroko happens to be the shadowy sixth member of the legendary Generation of Miracles basketball team. Together, Kagami and Kuroko aim to take their team to the inter-high school championship - against Kuroko's former teammates.",
+      "popularity": 72.317,
+      "poster_path": "/5CEIm6RPRU9iy4jBpfreUwJkydv.jpg",
+      "vote_average": 8.7,
+      "vote_count": 453
+    },
+    {
+      "backdrop_path": "/shat7d2no6y7p29568WprhohTAu.jpg",
+      "first_air_date": "2017-10-08",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 74081,
+      "name": "Blend S",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブレンド・S",
+      "overview": "High school girl Maika Sakuranomiya has trouble finding a part-time job because of how scary she looks when smiling. However, she is scouted one day by Dino, the manager of the café Stile where its waitresses play unique traits such as tsundere and younger sister. Maika is given a sadist trait because of her looks and has to adopt a dominant and cruel persona when servicing customers, particularly masochist ones.",
+      "popularity": 17.356,
+      "poster_path": "/cRN22Xeb4kZ3GVBdfIJVPgD3ZH0.jpg",
+      "vote_average": 8.7,
+      "vote_count": 211
+    },
+    {
+      "backdrop_path": "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "first_air_date": "2022-09-13",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 105248,
+      "name": "Cyberpunk: Edgerunners",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "サイバーパンク：エッジランナーズ",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "popularity": 443.285,
+      "poster_path": "/7jSWOc6jWSw5hZ78HB8Hw3pJxuk.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296615bed2a789dc0cf441"
+  },
+  "page": 5,
+  "results": [
+    {
+      "backdrop_path": "/negH2GNeY3KQiUmtJG6pNuBAzdh.jpg",
+      "first_air_date": "2021-01-11",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "id": 94664,
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "無職転生 ～異世界行ったら本気だす～",
+      "overview": "34-year-old virgin loser is kicked out of his home by his family and realized that his life is completely over. As he regrets wasting his life, a truck runs him over and he died. When he wakes up... He’s in a world of sword and sorcery! Reborn as a baby named Rudeus, he decides that this time, he’ll live a life he won’t regret!",
+      "popularity": 169.976,
+      "poster_path": "/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+      "vote_average": 8.7,
+      "vote_count": 564
+    },
+    {
+      "backdrop_path": "/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+      "first_air_date": "2022-01-09",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 123249,
+      "name": "My Dress-Up Darling",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "その着せ替え人形は恋をする",
+      "overview": "Wakana Gojo is a high school boy who wants to become a kashirashi--a master craftsman who makes traditional Japanese Hina dolls. Though he's gung-ho about the craft, he knows nothing about the latest trends, and has a hard time fitting in with his class. The popular kids--especially one girl, Marin Kitagawa--seem like they live in a completely different world. That all changes one day, when she shares an unexpected secret with him, and their completely different worlds collide.",
+      "popularity": 106.531,
+      "poster_path": "/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+      "vote_average": 8.7,
+      "vote_count": 229
+    },
+    {
+      "backdrop_path": "/4u64tHtUkna1y4OkJcrXLEhhLLy.jpg",
+      "first_air_date": "2021-01-10",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 110070,
+      "name": "Horimiya",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ホリミヤ",
+      "overview": "A secret life is the one thing they have in common. At school, Hori is a prim and perfect social butterfly, but the truth is she's a brash homebody. Meanwhile, under a gloomy facade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they've never shown. Could this blossom into something new?",
+      "popularity": 82.072,
+      "poster_path": "/917VL7zHTaltnEBDrKWVITTsvLy.jpg",
+      "vote_average": 8.7,
+      "vote_count": 669
+    },
+    {
+      "backdrop_path": "/5IpJOGP0HAuwm9zwjt4NyqKe9oc.jpg",
+      "first_air_date": "1998-04-07",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 35790,
+      "name": "Cardcaptor Sakura",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "カードキャプターさくら",
+      "overview": "Sakura Kinomoto, an elementary school student who discovers that she possesses magical powers after accidentally freeing a set of magical cards from the book they had been sealed in for years. She is then tasked with retrieving those cards in order to avoid an unknown catastrophe from befalling the world.",
+      "popularity": 56.797,
+      "poster_path": "/dj0uI34MOkZMTE233tfRebs0YYx.jpg",
+      "vote_average": 8.7,
+      "vote_count": 573
+    },
+    {
+      "backdrop_path": "/uKtyR5VqjefVgYQ64Hy1ch2BVFo.jpg",
+      "first_air_date": "2018-01-11",
+      "genre_ids": [
+        16,
+        10765,
+        18
+      ],
+      "id": 75214,
+      "name": "Violet Evergarden",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ヴァイオレット・エヴァーガーデン",
+      "overview": "The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.\n\nRecovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an \"Auto Memory Doll,\" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.",
+      "popularity": 52.752,
+      "poster_path": "/ImvHbM4GsJJykarnOzhtpG6ax6.jpg",
+      "vote_average": 8.7,
+      "vote_count": 587
+    },
+    {
+      "backdrop_path": "/B5r0D49eoD3JUll2MPpOOq5sdc.jpg",
+      "first_air_date": "2014-01-11",
+      "genre_ids": [
+        18
+      ],
+      "id": 61865,
+      "name": "When Calls the Heart",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "When Calls the Heart",
+      "overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+      "popularity": 46.699,
+      "poster_path": "/bPjZGRnQvJ3L2y2Caae89Rdh6dx.jpg",
+      "vote_average": 8.7,
+      "vote_count": 105
+    },
+    {
+      "backdrop_path": "/bY17tTK5GOEwxIValL0MBHGt6T6.jpg",
+      "first_air_date": "2006-10-04",
+      "genre_ids": [
+        16,
+        9648,
+        10765
+      ],
+      "id": 13916,
+      "name": "Death Note",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "DEATH NOTE",
+      "overview": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+      "popularity": 109.668,
+      "poster_path": "/iigTJJskR1PcjjXqxdyJwVB3BoU.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3008
+    },
+    {
+      "backdrop_path": "/ohOrfdh80HVY5QBD8kV2FYYSVwF.jpg",
+      "first_air_date": "2021-01-10",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 110309,
+      "name": "SK8 the Infinity",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "SK∞ エスケーエイト",
+      "overview": "\"S\" is a dangerous, top secret, no-holds-barred downhill skateboarding race down an abandoned mine. When avid skateboarder Reki takes Langa to the mountain where \"S\" is held, Langa, who's never been on a skateboard in his life, finds himself sucked into the world of \"S\", and…?!",
+      "popularity": 47.818,
+      "poster_path": "/ksb6QlSCsRLr3MNmxc8ojOOLK6V.jpg",
+      "vote_average": 8.7,
+      "vote_count": 240
+    },
+    {
+      "backdrop_path": "/xXY9WxE3KxwxftTmJIU8LwY5ojD.jpg",
+      "first_air_date": "2019-01-07",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 83100,
+      "name": "Dororo",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "どろろ",
+      "overview": "A samurai lord has bartered away his newborn son's organs to forty-eight demons in exchange for dominance on the battlefield. Yet, the abandoned infant survives thanks to a medicine man who equips him with primitive prosthetics—lethal ones with which the wronged son will use to hunt down the multitude of demons to reclaim his body one piece at a time, before confronting his father. On his journeys the young hero encounters an orphan who claims to be the greatest thief in Japan.",
+      "popularity": 68.052,
+      "poster_path": "/jyFHtqYeVvc2A9nLhFGvM49xGPg.jpg",
+      "vote_average": 8.7,
+      "vote_count": 943
+    },
+    {
+      "backdrop_path": "/61vXR9xfgNqidYkBruRXhRTlVzI.jpg",
+      "first_air_date": "2008-04-04",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 34742,
+      "name": "To Love-Ru",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "To LOVEる -とらぶる-",
+      "overview": "The story is about Yuuki Rito, a high-school boy who cannot confess to the girl of his dreams, Sairenji Haruna. One day when coming home and sulking in the bath-tub a mysterious, nude girl, appears out of nowhere. Her name is Lala and she comes from the planet Deviluke, where she is the heir to the throne. Her father wants her to return to her home planet so she can marry one of the husband candidates, but she decides that she wants to marry Rito in order to stay on Earth.",
+      "popularity": 53.823,
+      "poster_path": "/vsWNCisRhrBbUaTR56qCk6pLsEn.jpg",
+      "vote_average": 8.7,
+      "vote_count": 331
+    },
+    {
+      "backdrop_path": "/fGXhmKyqRmx6NN3gQHeWNmiEryl.jpg",
+      "first_air_date": "1995-10-04",
+      "genre_ids": [
+        10765,
+        16,
+        18
+      ],
+      "id": 890,
+      "name": "Neon Genesis Evangelion",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "新世紀エヴァンゲリオン",
+      "overview": "At the turn of the century, the Angels returned to Earth, seeking to wipe out humanity in an apocalyptic fury. Devastated, mankind's last remnants moved underground to wait for the day when the Angels would come back to finish the job. Fifteen years later, that day has come... but this time, humanity is ready to fight back with terrifying bio-mechanical weapons known as the Evangelions. Watch as Shinji, Rei, Asuka and the rest of the mysterious shadow agency Nerv battle to save earth from total annihilation.",
+      "popularity": 79.006,
+      "poster_path": "/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1160
+    },
+    {
+      "backdrop_path": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "first_air_date": "2017-07-12",
+      "genre_ids": [
+        18,
+        16
+      ],
+      "id": 72517,
+      "name": "Classroom of the Elite",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ようこそ実力至上主義の教室へ",
+      "overview": "Koudo Ikusei Senior High School is a leading prestigious school with state-of-the-art facilities where nearly 100% of students go on to university or find employment. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is a paradise-like school, but the truth is that only the most superior of students receive favorable treatment.\n\nAyanokouji Kiyotaka is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Horikita Suzune and Kushida Kikyou, two other students in his class, Kiyotaka’s situation begins to change.",
+      "popularity": 230.169,
+      "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+      "vote_average": 8.7,
+      "vote_count": 460
+    },
+    {
+      "backdrop_path": "/gUC0n2ASR69Aqm8jZD80k2yafpT.jpg",
+      "first_air_date": "2022-04-14",
+      "genre_ids": [
+        10764
+      ],
+      "id": 154521,
+      "name": "The Kardashians",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Kardashians",
+      "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+      "popularity": 136.65,
+      "poster_path": "/3cJgB4fOfgHKNoHgtT3h1Qqkvxq.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1350
+    },
+    {
+      "backdrop_path": "/qSgBzXdu6QwVVeqOYOlHolkLRxZ.jpg",
+      "first_air_date": "2019-01-09",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        18
+      ],
+      "id": 83095,
+      "name": "The Rising of the Shield Hero",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "盾の勇者の成り上がり",
+      "overview": "Iwatani Naofumi, a run-of-the-mill otaku, finds a book in the library that summons him to another world. He is tasked with joining the sword, spear, and bow as one of the Four Cardinal Heroes and fighting the Waves of Catastrophe as the Shield Hero. Excited by the prospect of a grand adventure, Naofumi sets off with his party. However, merely a few days later, he is betrayed and loses all his money, dignity, and respect. Unable to trust anyone anymore, he employs a slave named Raphtalia and takes on the Waves and the world. But will he really find a way to overturn this desperate situation?",
+      "popularity": 57.728,
+      "poster_path": "/ftavpq2PJn5pyo5opJEmj8QleKD.jpg",
+      "vote_average": 8.6,
+      "vote_count": 970
+    },
+    {
+      "backdrop_path": "/t5VI9pTqoIlIqazask1CJ1ioAaI.jpg",
+      "first_air_date": "2013-04-07",
+      "genre_ids": [
+        10765,
+        16,
+        10759
+      ],
+      "id": 1429,
+      "name": "Attack on Titan",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "進撃の巨人",
+      "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+      "popularity": 97.408,
+      "poster_path": "/aiy35Evcofzl7hASZZvsFgltHTX.jpg",
+      "vote_average": 8.6,
+      "vote_count": 4477
+    },
+    {
+      "backdrop_path": "/5Ktpz72iBqPTlC1sXJU6EvAaE5N.jpg",
+      "first_air_date": "2009-10-07",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 68854,
+      "name": "Kimi ni Todoke: From Me to You",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "君に届け",
+      "overview": "Kuronuma Sawako is completely misunderstood by her classmates. Her timid and sweet demeanor is often mistaken for malicious behavior. This is due to her resemblance to the ghost girl from \"The Ring,\" which has led her peers to give her the nickname Sadako. Longing to make friends and live a normal life, she is naturally drawn to Kazehaya Shouta, the most popular guy in class, whose \"100% refreshing\" personality earns him great admiration from Sawako. So when Kazehaya starts talking to her, maybe there is hope for the friendships Sawako has always longed for. Maybe... there is even a little hope for some romance in her future.",
+      "popularity": 21.779,
+      "poster_path": "/kka0aBfSmhxYopCW0FzDWzljRhG.jpg",
+      "vote_average": 8.6,
+      "vote_count": 240
+    },
+    {
+      "backdrop_path": "/6wvmGAbbQljlM8GDFBLjq8Thr3R.jpg",
+      "first_air_date": "2013-04-06",
+      "genre_ids": [
+        16,
+        10765,
+        35,
+        10759
+      ],
+      "id": 46004,
+      "name": "Date a Live",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "デート・ア・ライブ",
+      "overview": "Thirty years ago a strange phenomenon called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on an irregular basis. Shido Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He is recruited to make use of his mysterious ability to seal the Spirits' powers thus stopping them from being a threat to mankind. However, there is a catch: to seal a Spirit's power, he must make her fall in love with him and kiss him.",
+      "popularity": 54.504,
+      "poster_path": "/qi98miuMe1oB5WWo2lonuKFTq4P.jpg",
+      "vote_average": 8.6,
+      "vote_count": 372
+    },
+    {
+      "backdrop_path": "/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg",
+      "first_air_date": "2022-08-21",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 94997,
+      "name": "House of the Dragon",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "popularity": 8735.731,
+      "poster_path": "/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1255
+    },
+    {
+      "backdrop_path": "/sQj1rwsiBasgffpbiIwSWyKT5j0.jpg",
+      "first_air_date": "2019-07-08",
+      "genre_ids": [
+        16,
+        10759,
+        18,
+        10768
+      ],
+      "id": 88803,
+      "name": "Vinland Saga",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ヴィンランド・サガ",
+      "overview": "For a thousand years, the Vikings have made quite a name and reputation for themselves as the strongest families with a thirst for violence. Thorfinn, the son of one of the Vikings' greatest warriors, spends his boyhood in a battlefield enhancing his skills in his adventure to redeem his most-desired revenge after his father was murdered.",
+      "popularity": 16.115,
+      "poster_path": "/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
+      "vote_average": 8.6,
+      "vote_count": 406
+    },
+    {
+      "backdrop_path": "/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg",
+      "first_air_date": "2021-06-17",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 114868,
+      "name": "Record of Ragnarok",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "終末のワルキューレ",
+      "overview": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+      "popularity": 132.384,
+      "poster_path": "/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1120
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296859bed2a789dc0cf442"
+  },
+  "page": 6,
+  "results": [
+    {
+      "backdrop_path": "/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
+      "first_air_date": "2019-07-05",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        35
+      ],
+      "id": 88046,
+      "name": "Fire Force",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "炎炎ノ消防隊",
+      "overview": "Year 198 of the Solar Era in Tokyo, special fire brigades are fighting against a phenomenon called spontaneous human combustion where humans beings are turned into living infernos called \"Infernals\". While the Infernals are first generation cases of spontaneous human combustion, later generations possess the ability to manipulate flames while retaining human form. Shinra Kusakabe, a youth who gained the nickname Devil's Footprints for his ability to ignite his feet at will, joins the Special Fire Force Company 8 which composes of other flames users as they work to extinguish any Infernals they encounter. As a faction that is creating Infernals appears, Shira begins to uncover the truth behind a mysterious fire that caused the death of his family twelve years ago.",
+      "popularity": 31.607,
+      "poster_path": "/zLDxWMM0BLImdAsnkqGeeoqjYev.jpg",
+      "vote_average": 8.6,
+      "vote_count": 412
+    },
+    {
+      "backdrop_path": "/xbylY77fYyPjJN5TLYeawR7ault.jpg",
+      "first_air_date": "2016-10-07",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 68188,
+      "name": "Kiss Him, Not Me",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "私がモテてどうすんだ",
+      "overview": "Kae Serinuma is a second year high school student and an avid fujoshi who secretly ships her classmates, Igarashi and Nanashima. The death of her favorite anime character causes her to become stressed and lose weight rapidly. Now that Serinuma has become an attractive girl to her classmates, snarky junior Shinomiya and senior Mutsumi, how is she going to deal with them with her constant BL-filled fujoshi mind?",
+      "popularity": 19.516,
+      "poster_path": "/3GPjnbeDjwKYIs2DYZIpSWWllOg.jpg",
+      "vote_average": 8.6,
+      "vote_count": 266
+    },
+    {
+      "backdrop_path": "/b1Mh03Aeu4IlGvdNm10cbQQxt95.jpg",
+      "first_air_date": "2013-10-03",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": 46896,
+      "name": "The Originals",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Originals",
+      "overview": "A spin-off from The Vampire Diaries and set in New Orleans, The Originals centers on the Mikaelson siblings, otherwise known as the world's original vampires: Klaus, Elijah, and Rebekah. Now Klaus must take down his protégé, Marcel, who is now in charge of New Orleans, in order to re-take his city, as he originally built New Orleans. Klaus departed from the city after being chased down by his father Mikael, while it was being constructed and Marcel took charge. As Klaus has returned after many years, his ego has provoked him to become the king of the city. \"Every King needs an heir\" says Klaus, accepting the unborn child. The child is a first to be born to a hybrid and a werewolf.",
+      "popularity": 154.779,
+      "poster_path": "/2llbXc2BOkLkBGgcNJCRbrWedUO.jpg",
+      "vote_average": 8.6,
+      "vote_count": 2834
+    },
+    {
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "first_air_date": "2016-07-15",
+      "genre_ids": [
+        18,
+        10765,
+        9648
+      ],
+      "id": 66732,
+      "name": "Stranger Things",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "popularity": 897.508,
+      "poster_path": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "vote_average": 8.6,
+      "vote_count": 13640
+    },
+    {
+      "backdrop_path": "/5iPLIRWzOfGBzeg9CG1Lp3heFst.jpg",
+      "first_air_date": "2005-12-08",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 12313,
+      "name": "Shadow Hunter",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Shadow Hunter",
+      "overview": "A documentary series about the paranormal, hosted by Darryll Walsh, a ghost hunter, best-selling author and doctor of parapsychology.",
+      "popularity": 12.69,
+      "poster_path": "/u54sBLTqo5lfMKc3DXkCZjvBIyv.jpg",
+      "vote_average": 8.6,
+      "vote_count": 887
+    },
+    {
+      "backdrop_path": "/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+      "first_air_date": "2019-04-05",
+      "genre_ids": [
+        99
+      ],
+      "id": 83880,
+      "name": "Our Planet",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Our Planet",
+      "overview": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+      "popularity": 18.812,
+      "poster_path": "/wRSnArnQBmeUYb5GWDU595bGsBr.jpg",
+      "vote_average": 8.6,
+      "vote_count": 192
+    },
+    {
+      "backdrop_path": "/dwEkNoGFZJWqiwJrnzVfmtmVhfU.jpg",
+      "first_air_date": "2019-01-11",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 84669,
+      "name": "The Quintessential Quintuplets",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "五等分の花嫁",
+      "overview": "Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.",
+      "popularity": 98.357,
+      "poster_path": "/mrahUSmFjae8UHtlOcZ58ytmAGu.jpg",
+      "vote_average": 8.6,
+      "vote_count": 569
+    },
+    {
+      "backdrop_path": "/raZ0xTSdRhZIMQYChKdhUMyWMAa.jpg",
+      "first_air_date": "2017-04-04",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18,
+        35
+      ],
+      "id": 70637,
+      "name": "Akashic Records of Bastard Magic Instructor",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ロクでなし魔術講師と禁忌教典",
+      "overview": "The Alzano Imperial Magic Academy is located in the southern part of the Alzano Empire and is among most prominent magic schools in the world, where students can learn the highest forms of magic. All those who strive to learn magic dream of studying at this academy, and its students as well as its teachers are proud to be a part of its 400-year history. Glenn Radars is a new instructor who has suddenly been appointed to teach part-time at this highly respected academy. The previously unheard-of lessons of this man known as a good-for-nothing bastard are about to begin.",
+      "popularity": 44.983,
+      "poster_path": "/8TPNh67XvxuIK6TsFeXbodkGVeu.jpg",
+      "vote_average": 8.6,
+      "vote_count": 489
+    },
+    {
+      "backdrop_path": "/8vuwZBH143HODfQgVMBrOvvQmNM.jpg",
+      "first_air_date": "2015-04-04",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 62273,
+      "name": "Food Wars! Shokugeki no Soma",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "食戟のソーマ",
+      "overview": "Yukihira Souma's dream is to become a full-time chef in his father's restaurant and surpass his father's culinary skill. But just as Yukihira graduates from middle schools his father, Yukihira Jouichirou, closes down the restaurant to travel and cook around the world. Although downtrodden, Souma's fighting spirit is rekindled by a challenge from Jouichirou which is to survive in an elite culinary school where only 10% of the students graduate. Can Souma survive?",
+      "popularity": 35.327,
+      "poster_path": "/drteIrKPh0qaTYitGkxAOKoidsR.jpg",
+      "vote_average": 8.6,
+      "vote_count": 591
+    },
+    {
+      "backdrop_path": "/tRtkUNrF8LXcVZap3LGXMChjVvm.jpg",
+      "first_air_date": "2019-04-08",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 86836,
+      "name": "Why the Hell are You Here, Teacher!?",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "なんでここに先生が!?",
+      "overview": "Ichiro Sato is about as average as a student can get… except for his above-average ability to land himself in totally awkward, intensely risqué situations with his no-nonsense teacher, Kana Kojima! Ichiro has his hands full dealing with these steamy shenanigans and unexpected encounters in the most unlikely places. At least it can’t get any worse, right?",
+      "popularity": 63.327,
+      "poster_path": "/1yss3gl6mMNT9Txvdtvnu2KTWt9.jpg",
+      "vote_average": 8.6,
+      "vote_count": 596
+    },
+    {
+      "backdrop_path": "/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "first_air_date": "2019-07-08",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 86034,
+      "name": "Arifureta: From Commonplace to World's Strongest",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ありふれた職業で世界最強",
+      "overview": "Seventeen-year-old Hajime Nagumo is your average, everyday otaku. However, his simple life of pulling all-nighters and sleeping in school is suddenly turned upside down when he, along with the rest of his class, is summoned to a fantasy world! They're treated like heroes and tasked with the duty of saving the human race from utter extinction. But what should have been any otaku's wet dream quickly turns into Hajime's nightmare. While the rest of his class are blessed with godlike powers, Hajime's job, Synergist, only has a single transmutation skill. Ridiculed and bullied by his classmates for being weak, he soon finds himself in despair. Will he be able to survive in this dangerous world of monsters and demons with only a glorified blacksmith's level of strength?",
+      "popularity": 10.83,
+      "poster_path": "/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg",
+      "vote_average": 8.6,
+      "vote_count": 479
+    },
+    {
+      "backdrop_path": "/hiK4qc0tZijQ9KNUnBIS1k4tdMJ.jpg",
+      "first_air_date": "2004-11-16",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 1408,
+      "name": "House",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "House",
+      "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+      "popularity": 372.011,
+      "poster_path": "/lkvhReTBZ2Ksl0Dl5Oplsf6UYkF.jpg",
+      "vote_average": 8.6,
+      "vote_count": 4949
+    },
+    {
+      "backdrop_path": "/uDadf0pmGDXgkiRP7xJICWkSHVV.jpg",
+      "first_air_date": "2020-06-20",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 96462,
+      "name": "It's Okay to Not Be Okay",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "사이코지만 괜찮아",
+      "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected—a woman who writes fairy tales but doesn’t believe in them.",
+      "popularity": 55.286,
+      "poster_path": "/6CvvTWcw9vSf5Zpgeot2ppE0P2D.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1029
+    },
+    {
+      "backdrop_path": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+      "first_air_date": "2019-10-05",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 91801,
+      "name": "Welcome to Demon School! Iruma-kun",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "魔入りました！入間くん",
+      "overview": "Fourteen-year-old Suzuki Iruma has just been abandoned and sold to a demon by his irresponsible parents! Surprisingly, the next thing he knows he's living with the demon who has adopted him as his new grandson, and has been transferred into a school in the demon world where his new \"demon\" grandfather works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly as he faces his true self, takes on challenges, and rises to become someone great.",
+      "popularity": 51.269,
+      "poster_path": "/aed6I1EMR4Lbk8bdikWrndbn5Og.jpg",
+      "vote_average": 8.6,
+      "vote_count": 202
+    },
+    {
+      "backdrop_path": "/iU3cZHXWUVqu54aF5oNqZcwaBHx.jpg",
+      "first_air_date": "2014-10-07",
+      "genre_ids": [
+        10759,
+        16,
+        35,
+        18,
+        10765
+      ],
+      "id": 61461,
+      "name": "Yona of the Dawn",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "暁のヨナ",
+      "overview": "The legend of the Four Dragons and the origin of the land has been passed down for generations in the land of Kouka. Currently, Hiryuu Palace has no one else next in line for the throne other than the fifteen year old princess, Yona, who had been raised with care.\n\nFinally, the night of her sixteenth birthday arrives. She expects it to be a wonderful day spent with her peace-loving father, Il, her servant and friend Hak, and her cousin Soo-won, who she had feelings for... However... That night, Yona goes to visit her father to tell him how she really feels, because he opposes to her getting married to Soo-won. However, when she gets to her room, she encounters a shocking truth. The destinies of Yona and the Four Dragons entwine in this period drama fantasy romance!",
+      "popularity": 24.057,
+      "poster_path": "/qxnaENqprdRge7MxQsEmOsEDVk5.jpg",
+      "vote_average": 8.6,
+      "vote_count": 210
+    },
+    {
+      "backdrop_path": "/1VZ8gN6tPoAd7EdfCzVPmtDczhD.jpg",
+      "first_air_date": "2021-04-11",
+      "genre_ids": [
+        18,
+        16,
+        10759,
+        80
+      ],
+      "id": 105009,
+      "name": "Tokyo Revengers",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "東京リベンジャーズ",
+      "overview": "Takemichi Hanagaki is a freelancer that’s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he’s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he’s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he’s back living the best days of his life, Takemichi decides to get revenge on his life.",
+      "popularity": 154.062,
+      "poster_path": "/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+      "vote_average": 8.6,
+      "vote_count": 901
+    },
+    {
+      "backdrop_path": "/e30T3teKp6VZlIXhI0AhTDksvoy.jpg",
+      "first_air_date": "2021-01-13",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        18,
+        80
+      ],
+      "id": 99071,
+      "name": "Redo of Healer",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "回復術士のやり直し",
+      "overview": "In a world of monsters, adventurers and magic, some of the most gifted healers are subjugated to brute force. Keyaru gains the ability to rewind time and turns the tables on those who’ve exploited him in this dark fantasy tale of vengeance and fury.",
+      "popularity": 74.854,
+      "poster_path": "/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+      "vote_average": 8.6,
+      "vote_count": 685
+    },
+    {
+      "backdrop_path": "/csSu5Mj2BRc4PRlzV6LUYPOsgIM.jpg",
+      "first_air_date": "2019-10-02",
+      "genre_ids": [
+        16,
+        10759,
+        35,
+        10765,
+        10768
+      ],
+      "id": 93256,
+      "name": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
+      "overview": "There is a popular saying: \"you can never be too careful.\" It is very important to prepare for every situation you may face, even if it seems like an unnecessary waste of time. Also, in games like RPGs, it is good to exceed the level of your enemies to achieve total victory.\n\nThese words describe Seiya Ryuuguuin a little too perfectly. After being summoned by the goddess Ristarte to save the world of Gaeabrande from destruction, the hero prepares himself for his noble journey. While this might be normal, he spends a very long time training himself, despite having overpowered stats. He fights weak enemies using his strongest skills and buys excessive amounts of supplies and potions—all to stay safe.\n\nWhile his attitude may be a bit annoying, it might just be the saving grace of Gaeabrande, especially considering that it is a world where the forces of evil dominate each and every expectation.",
+      "popularity": 26.681,
+      "poster_path": "/bbg1FMU7c3W06KUKrgIhIECFliZ.jpg",
+      "vote_average": 8.6,
+      "vote_count": 183
+    },
+    {
+      "backdrop_path": "/to2gpUoxeNQlbjfswI8mXldaql0.jpg",
+      "first_air_date": "2006-07-03",
+      "genre_ids": [
+        10765,
+        16,
+        35,
+        10759
+      ],
+      "id": 35753,
+      "name": "The Familiar of Zero",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ゼロの使い魔",
+      "overview": "Louise Françoise Le Blanc de La Vallière’s name is so long and her spell-casting skills are so poor that everyone at the Tristain Academy of Magic just calls her “Louise the Zero.” Louise’s humiliation only increases during an important second year test, she inexplicably summons Hiraga Saito, a totally normal teenager from Tokyo. Now she’s stuck with him and Saito’s stuck with the lousy life of being a familiar.",
+      "popularity": 56.613,
+      "poster_path": "/edpG7IAoHtEfQ2XMMjcpBarlOF4.jpg",
+      "vote_average": 8.6,
+      "vote_count": 513
+    },
+    {
+      "backdrop_path": "/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
+      "first_air_date": "2001-07-04",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 40143,
+      "name": "Shaman King",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "シャーマンキング",
+      "overview": "Asakura Yoh is a shaman, a person who communicates with ghosts. He enters the Shaman Fight, for whoever wins the tournament gets to commune with the Great Spirit, God . . . that and his fiance Anna wants to be the wife of the Shaman King. Helping him are his friends Manta, Horo Horo, Ryu, and his samurai ghost partner, Amidamaru.",
+      "popularity": 37.164,
+      "poster_path": "/bDJLF92frEmKSr1OlCZN5P1kx6W.jpg",
+      "vote_average": 8.6,
+      "vote_count": 334
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "6329685ebed2a789dc0cf443"
+  },
+  "page": 7,
+  "results": [
+    {
+      "backdrop_path": "/aXjxJGIigXn8zikcj3SUmG6xbIA.jpg",
+      "first_air_date": "2019-04-10",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 87461,
+      "name": "The Helpful Fox Senko-san",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "世話やきキツネの仙狐さん",
+      "overview": "Like many hardworking members of the workforce, Kuroto Nakano is perpetually stressed out by his job. Still, since he lives alone, he must carry on to sustain himself. Little do humans like Kuroto know, this stress takes the form of darkness residing within a person's body and will bring one's life to ruin.\n\nFox deities can see this darkness and have the duty to save people before it is too late. To help rid Kuroto of his stress, Senko-san, an eight hundred-year-old foxgirl, volunteers to take care of him, and will do everything she can to ease the tension in his weary soul.",
+      "popularity": 26.045,
+      "poster_path": "/pygu154QHVzb0Ro3PKTdFBKcdiY.jpg",
+      "vote_average": 8.6,
+      "vote_count": 199
+    },
+    {
+      "backdrop_path": "/aEvoRR2lcesBoKJSSqDqsppQrKJ.jpg",
+      "first_air_date": "1985-03-04",
+      "genre_ids": [
+        16,
+        18,
+        10765
+      ],
+      "id": 2192,
+      "name": "Robotech",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Robotech",
+      "overview": "Robotech is an 85-episode adaptation of three different anime television series made between 1982-1984 in Japan; the adaptation was aired in 1985. Within the combined and edited story, Robotechnology refers to the scientific advances discovered in an alien starship that crashed on a South Pacific island. With this technology, Earth developed giant robotic machines or mecha to fight three successive extraterrestrial invasions.",
+      "popularity": 26.397,
+      "poster_path": "/f3SIr4To9Tuie4I9D2U41XsIbpC.jpg",
+      "vote_average": 8.6,
+      "vote_count": 262
+    },
+    {
+      "backdrop_path": "/gZzIQxo2ukFSdZGtlttA0wI6kax.jpg",
+      "first_air_date": "2011-06-05",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 34524,
+      "name": "Teen Wolf",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Teen Wolf",
+      "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
+      "popularity": 230.512,
+      "poster_path": "/vY2vfAskJTiWsQSv6bdbNCQhPLm.jpg",
+      "vote_average": 8.6,
+      "vote_count": 3398
+    },
+    {
+      "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+      "first_air_date": "2020-10-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 87739,
+      "name": "The Queen's Gambit",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Queen's Gambit",
+      "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+      "popularity": 78.116,
+      "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+      "vote_average": 8.6,
+      "vote_count": 2945
+    },
+    {
+      "backdrop_path": "/4jaGeTbps5BKk6l1x6K2P9b3Qto.jpg",
+      "first_air_date": "2020-10-08",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        35
+      ],
+      "id": 99779,
+      "name": "Noblesse",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "NOBLESSE -ノブレス-",
+      "overview": "Rai wakes up from 820-years long sleep and starts his new life as a student in a high school founded by his loyal servant, Frankenstein. But his peaceful days with other human students are soon interrupted by mysterious attackers known as the \"Unions\".",
+      "popularity": 18.695,
+      "poster_path": "/tnIfTMaig2FmsOSL5wEH3rYofJN.jpg",
+      "vote_average": 8.6,
+      "vote_count": 374
+    },
+    {
+      "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+      "first_air_date": "2019-05-06",
+      "genre_ids": [
+        18
+      ],
+      "id": 87108,
+      "name": "Chernobyl",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chernobyl",
+      "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+      "popularity": 70.085,
+      "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "vote_average": 8.6,
+      "vote_count": 4314
+    },
+    {
+      "backdrop_path": "/b4YF76JxWSZayk5fBVbbyOnwaQk.jpg",
+      "first_air_date": "2015-04-05",
+      "genre_ids": [
+        16,
+        18,
+        10765
+      ],
+      "id": 62450,
+      "name": "Plastic Memories",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "プラスティック･メモリーズ",
+      "overview": "After failing his college entrance exams, 18 year-old Tsukasa Mizugaki is offered a position at the renowned SAI Corporation, known for its production and management of Giftia, androids that possess human emotions. Tsukasa’s position is in the terminal service department where the main job is to recover Giftias that are close to their expiration, a graveyard department in every sense. To make matters worse, Tsukasa is ordered to work with Isla, a female Giftia who is never given any responsibility other than serving tea to co-workers.",
+      "popularity": 28.437,
+      "poster_path": "/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+      "vote_average": 8.6,
+      "vote_count": 148
+    },
+    {
+      "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+      "first_air_date": "2021-12-19",
+      "genre_ids": [
+        37,
+        18
+      ],
+      "id": 118357,
+      "name": "1883",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "1883",
+      "overview": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+      "popularity": 51.915,
+      "poster_path": "/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+      "vote_average": 8.6,
+      "vote_count": 180
+    },
+    {
+      "backdrop_path": "/7gbmM2NWcqZONbp65HUWDf4wr0Q.jpg",
+      "first_air_date": "2019-07-12",
+      "genre_ids": [
+        16,
+        18
+      ],
+      "id": 88040,
+      "name": "Given",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ギヴン",
+      "overview": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.",
+      "popularity": 26.345,
+      "poster_path": "/lTP5yFKt2wzv8vM4EheNgIejEVu.jpg",
+      "vote_average": 8.6,
+      "vote_count": 668
+    },
+    {
+      "backdrop_path": "/4hXEVbqGLMQG1SL4882BnBKgqEr.jpg",
+      "first_air_date": "2021-12-18",
+      "genre_ids": [
+        18,
+        10766,
+        10768
+      ],
+      "id": 108291,
+      "name": "Snowdrop",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "설강화",
+      "overview": "A desperate love story between Young-ro, a youthful female freshman student, and Soo-ho, a prestigious but mysterious university graduate, who one day jumps into her room, at a women's university dormitory, covered in blood from running away of a dangerous situation. Despite the strict surveillance, she helps him on hiding and healing which develops their relationship that goes against the tragic era of 1987 in Seoul.",
+      "popularity": 34.345,
+      "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+      "vote_average": 8.6,
+      "vote_count": 104
+    },
+    {
+      "backdrop_path": "/x9zv7iB75isTzAx0W6Mr7w2F4t6.jpg",
+      "first_air_date": "2016-04-06",
+      "genre_ids": [
+        16,
+        10759,
+        35,
+        10765
+      ],
+      "id": 66078,
+      "name": "Twin Star Exorcists",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "双星の陰陽師",
+      "overview": "Rokuro is from a family of exorcists, but he'd rather be a singer, a soccer player or anything but an exorcist! He's forced to own up to his own incredible potential when new arrival Benio stirs his competitive spirit. But their rivalry gets a twist when they earn the prestigious title of \"Twin Star Exorcists\"—two supreme fighters fated to marry and birth the ultimate spiritual warrior!",
+      "popularity": 42.068,
+      "poster_path": "/dbGtsHEuV8zREyMEXmf5YFtUZyL.jpg",
+      "vote_average": 8.6,
+      "vote_count": 313
+    },
+    {
+      "backdrop_path": "/hqFaSNICeh0Y3Hp0gtEIzDBmUVo.jpg",
+      "first_air_date": "2020-08-19",
+      "genre_ids": [
+        10764
+      ],
+      "id": 106600,
+      "name": "BTS In the SOOP",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "In the SOOP BTS편",
+      "overview": "'In the SOOP BTS ver.' is a reality show, portraying BTS members' everyday life, relaxation, and everything in between, away from the city life. A time of freedom and healing in a place for BTS, and BTS only.",
+      "popularity": 19.58,
+      "poster_path": "/eBsIEKqLMtktw2jpFPa9WTuGyPN.jpg",
+      "vote_average": 8.6,
+      "vote_count": 368
+    },
+    {
+      "backdrop_path": "/dcdPgvIlOh7PAPuuVlbEmVwld2v.jpg",
+      "first_air_date": "2020-11-20",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 107124,
+      "name": "Animaniacs",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Animaniacs",
+      "overview": "The Warner siblings, Yakko and Wakko, and Dot, have a great time wreaking havoc and mayhem in the lives of everyone they meet. After returning to their beloved home, the Warner Bros. Water Tower, the Animaniacs waste no time in causing chaos and comic confusion as they run loose through the studio and beyond, turning the world into their personal playground. Joining Yakko, Wakko and Dot are fan-favorite characters Pinky and the Brain, continuing their quest for world domination.",
+      "popularity": 40.897,
+      "poster_path": "/ui11KF03IIFAAfHJ14SDuEFW3WO.jpg",
+      "vote_average": 8.6,
+      "vote_count": 457
+    },
+    {
+      "backdrop_path": "/lHcScx9Qpj6OkTmnzPRGIRhn3FR.jpg",
+      "first_air_date": "2019-10-03",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 93019,
+      "name": "ORESUKI: Are you the only one who loves me?",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "俺を好きなのはお前だけかよ",
+      "overview": "Kisaragi Amatsuyu is invited out alone by the cool beauty upperclassman Cosmos and his childhood friend Himawari. Expecting to hear their confessions, he triumphantly goes to meet each of them in turn. But Cosmos and Himawari both instead confess to Amatsuyu that they like his friend. Amatsuyu fights this lonely battle, but there is another girl who is looking at him. She is a gloomy girl with glasses and braids. Amatsuyu finds that he hates her, because she's always turning her sharp tongue only on him and finding enjoyment in his troubles. But it turns out that she's the only one who actually does like him.",
+      "popularity": 35.583,
+      "poster_path": "/4MojZik5N62IShd2BFVEHyaRBLP.jpg",
+      "vote_average": 8.6,
+      "vote_count": 246
+    },
+    {
+      "backdrop_path": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+      "first_air_date": "2017-07-07",
+      "genre_ids": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "id": 72636,
+      "name": "Made In Abyss",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "メイドインアビス",
+      "overview": "Located in the center of a remote island, the Abyss is the last unexplored region, a huge and treacherous fathomless hole inhabited by strange creatures where only the bravest adventurers descend in search of ancient relics. In the upper levels of the Abyss, Riko, a girl who dreams of becoming an explorer, stumbles upon a mysterious little boy.",
+      "popularity": 68.835,
+      "poster_path": "/n30CBH4BoN5Z34tCpOWIPGJYOaS.jpg",
+      "vote_average": 8.6,
+      "vote_count": 277
+    },
+    {
+      "backdrop_path": "/f71mQJuG8oDiDTMGKKWWeW9iHWU.jpg",
+      "first_air_date": "2000-10-16",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        35
+      ],
+      "id": 35610,
+      "name": "InuYasha",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "犬夜叉",
+      "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+      "popularity": 95.719,
+      "poster_path": "/zEHGWEMtqdXXhao8PeRqTmpaE6P.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1728
+    },
+    {
+      "backdrop_path": "/2XeJ6RClo1jeisGqZkWtVVKTXYJ.jpg",
+      "first_air_date": "2005-06-01",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 5381,
+      "name": "My Lovely Sam-Soon",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "내 이름은 김삼순",
+      "overview": "Kim Sam Soon is a baker who has a talent in making pastries and cakes. On Christmas Eve, she caught her boyfriend, Min Hyun Woo, cheating on her and breaks up. On that same night, she accidentally went into the men's restroom and met Hyun Jin Hun. By sheer coincidence, Jin Hun needs a baker for his restaurant Bon Appetit and Sam Soon is unemployed. Sam Soon is hired as the restaurant's chief baker and the two fight like cat and dog.",
+      "popularity": 23.827,
+      "poster_path": "/hqam3HaYUdZH1uXB9BqwJ7UBeij.jpg",
+      "vote_average": 8.6,
+      "vote_count": 162
+    },
+    {
+      "backdrop_path": "/4krha3MBKtFuEo9YRgznIFAl3RS.jpg",
+      "first_air_date": "2012-10-07",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 60654,
+      "name": "Magi",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "マギ",
+      "overview": "This story is about the flow of fate and the battle to keep the world on the right path. Aladdin is a boy who has set out to explore the world after being trapped in a room for most of his life. His best friend is a flute with a djinn in it named Ugo. Soon enough, Aladdin discovers he is a Magi, a magician who chooses kings, and he was born to choose kings who will follow the righteous path, battling against those who want to destroy fate. Follow his adventures as he meets others from 1001 Arabian Nights, like Ali Baba and Sinbad, and fights to keep the balance of world in check!",
+      "popularity": 38.525,
+      "poster_path": "/cDIDw98GGkVvyDa2ko0KGmE5g2A.jpg",
+      "vote_average": 8.6,
+      "vote_count": 133
+    },
+    {
+      "backdrop_path": "/catP4WmPPCiWbHv4jL5mQJfpGIQ.jpg",
+      "first_air_date": "1994-10-17",
+      "genre_ids": [
+        16,
+        10765,
+        10759,
+        18,
+        35
+      ],
+      "id": 34158,
+      "name": "Magic Knight Rayearth",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "魔法騎士レイアース",
+      "overview": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji are strangers brought together by fate when they meet during a seemingly normal field trip to Tokyo Tower. Accompanied by a great flash of light, they hear a mysterious woman's plea to save \"Cephiro,\" and the junior high heroines are suddenly swept away by a giant flying fish. Afterwards, they arrive in an unknown land, where they encounter a man called Master Mage Clef.\n\nClef informs the girls that they were summoned by Princess Emeraude to fulfill their destinies as Magic Knights, restoring peace and balance in Cephiro. The formerly lively and peaceful land has been in disarray ever since High Priest Zagato imprisoned the princess, who acted as Cephiro's pillar of stability. The Magic Knights reluctantly accept Clef's words as truth and embark on a journey to save Cephiro from the clutches of evil.",
+      "popularity": 24.278,
+      "poster_path": "/xh4XkH5RJQPO9b9bBPL77dKXrxR.jpg",
+      "vote_average": 8.6,
+      "vote_count": 162
+    },
+    {
+      "backdrop_path": "/gD1wxipYITThPEFJyszx6w7Bo7x.jpg",
+      "first_air_date": "2014-07-08",
+      "genre_ids": [
+        16,
+        35,
+        18
+      ],
+      "id": 62602,
+      "name": "Blue Spring Ride",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "アオハライド",
+      "overview": "At the end of her first year of high school, Futaba Yoshioka suddenly has a chance encounter with her first love, Kou Tanaka. Three years ago, he transferred schools before she was able to say how she felt about him. After meeting each other again, Futaba realizes that he has gone through many changes. He acts more cool and even had his last name changed to Mabuchi. Gradually the two rekindle their love while piecing together what had happened in the time that they were apart.",
+      "popularity": 24.259,
+      "poster_path": "/lAXKWt3IiKFJ1zOsuB6lYWIhovx.jpg",
+      "vote_average": 8.6,
+      "vote_count": 281
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296863bed2a789dc0cf444"
+  },
+  "page": 8,
+  "results": [
+    {
+      "backdrop_path": "/jRGFuU1i3tj1KyEkw44UV3RKrlK.jpg",
+      "first_air_date": "2020-01-18",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "id": 98123,
+      "name": "The Daily Life of the Immortal King",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "仙王的日常生活",
+      "overview": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…",
+      "popularity": 126.636,
+      "poster_path": "/AcN5WbEjfal5wKvf5B6VpWoISAE.jpg",
+      "vote_average": 8.6,
+      "vote_count": 579
+    },
+    {
+      "backdrop_path": "/31N42LhrxltHtS1bHYfZghjPDNB.jpg",
+      "first_air_date": "2020-12-09",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 112888,
+      "name": "True Beauty",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "여신강림",
+      "overview": "Lim Ju-kyung is a high school student. Since she was little, she has had a complex about her appearance. To hide her bare face, Ju-kyung always wears make-up. Her excellent make-up skills make her pretty and she hides her bare face in front of others. She gets involved with 2 men; Lee Su-ho and Han Seo-jun.",
+      "popularity": 197.179,
+      "poster_path": "/sld43SJArZqlnANJabq8R5wdOZk.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1093
+    },
+    {
+      "backdrop_path": "/uvwSzRWNJLwJVRrci9z0ynBheoL.jpg",
+      "first_air_date": "2015-10-07",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 64552,
+      "name": "Shomin Sample",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "俺がお嬢様学校に「庶民サンプル」として拉致られた件",
+      "overview": "Kimito Kagurazaka is an ordinary high school boy who is kidnapped by an elite young lady's academy to be a \"sample of the common people.\" The school is full of sheltered girls who have never met male peers before.",
+      "popularity": 24.237,
+      "poster_path": "/bUCMLqtoYVywYcLu1XlxGGlRot5.jpg",
+      "vote_average": 8.6,
+      "vote_count": 139
+    },
+    {
+      "backdrop_path": "/bkvkJyLqOk2ZbELDEukEAXEatrt.jpg",
+      "first_air_date": "2020-04-02",
+      "genre_ids": [
+        16,
+        9648,
+        10759,
+        10765,
+        18
+      ],
+      "id": 97860,
+      "name": "Tower of God",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "神之塔 -Tower of God-",
+      "overview": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.",
+      "popularity": 31.686,
+      "poster_path": "/fUs9KMgEJj3wYJGa75MtPSdyJXk.jpg",
+      "vote_average": 8.6,
+      "vote_count": 348
+    },
+    {
+      "backdrop_path": "/lg7Mc8pttvRTFX4MeVt9tQJuiH1.jpg",
+      "first_air_date": "2018-01-12",
+      "genre_ids": [
+        16,
+        10765,
+        35
+      ],
+      "id": 76132,
+      "name": "How to Keep a Mummy",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ミイラの飼い方",
+      "overview": "Kashiwagi Sora is living a normal high school student life, when his \"adventurer\" father sends him a mummy from his travels in Egypt! Sora balks at the letter from his crazy dad (\"I found a cool mummy, so I decided to leave it with you, son!\") at first, but the mummy that emerges from inside the huge coffin is a mere 12 centimeters tall--small enough to fit in the palm of his hand... Not only that, it's shy, a crybaby, and most of all, heckin' cute. And so, Sora and ends up keeping the mummy, naming his new little buddy \"Mii-kun.\" But living with a mummy might be easier said than done...!",
+      "popularity": 16.702,
+      "poster_path": "/jMMiup5dkVbkhKpPBEVN9IwX9Kp.jpg",
+      "vote_average": 8.6,
+      "vote_count": 164
+    },
+    {
+      "backdrop_path": "/bxTRLwRy5E3d97loCxXp136vDDu.jpg",
+      "first_air_date": "2020-07-04",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 97617,
+      "name": "The Misfit of Demon King Academy",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～",
+      "overview": "Anos Voldigord was a tyrannical Demon King that eradicated humans, spirits, and even the gods, but became bored of eternal warfare and reincarnated with dreams of a peaceful world. However, what awaited him in reincarnation after 2000 years were descendants who became too weak after being accustomed to peace, and all sorts of magic that deteriorated to the extreme. Anos enters Demon King Academy that gathers and educates those who are viewed as the reincarnation of the Demon King, but the academy could not see through his true powers and ends up branding him as a misfit.",
+      "popularity": 64.531,
+      "poster_path": "/6VjUfaGkt3DJPLlNmnm1ALEhSfv.jpg",
+      "vote_average": 8.6,
+      "vote_count": 554
+    },
+    {
+      "backdrop_path": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "first_air_date": "2015-07-07",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 64196,
+      "name": "Overlord",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "オーバーロード",
+      "overview": "In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, friends, or place in society, this ordinary young man Momonga then strives to take over the new world the game has become.",
+      "popularity": 251.01,
+      "poster_path": "/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+      "vote_average": 8.6,
+      "vote_count": 605
+    },
+    {
+      "backdrop_path": "/udCwCPDlWTfKDxXIqMNqxXcibfu.jpg",
+      "first_air_date": "2015-04-12",
+      "genre_ids": [
+        18,
+        16,
+        35
+      ],
+      "id": 62568,
+      "name": "Yamada-kun and the Seven Witches",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "山田くんと7人の魔女",
+      "overview": "One day, high-school boy Yamada bumps into the beautiful girl Shiraishi on the stairs (literally), and their lips touch as they fall. When they regain their wits, they realize that they have swapped bodies. As time progresses, the two realize that this is not the only mysterious happening in the school.",
+      "popularity": 22.943,
+      "poster_path": "/duNjXCTArkT7dbHDNR5dD8ElLHI.jpg",
+      "vote_average": 8.6,
+      "vote_count": 186
+    },
+    {
+      "backdrop_path": "/wTJbMpP7VZyRyiH4mhfqGYWf8pQ.jpg",
+      "first_air_date": "2018-06-04",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": 72548,
+      "name": "Are You Human?",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "너도 인간이니",
+      "overview": "Nam Shin is a son from a family who runs a large company. After an unexpected accident, he falls into a coma. His mother Oh Ro-Ra is an authority on brain science and artificial intelligence. She creates an android named Nam Shin III which looks like just like her son Nam Shin. The android pretends to be Nam Shin and he has a bodyguard So-Bong.",
+      "popularity": 21.202,
+      "poster_path": "/oVjRu96T5T68hoVwqPd8QZQo5Sp.jpg",
+      "vote_average": 8.6,
+      "vote_count": 252
+    },
+    {
+      "backdrop_path": "/a5xpTxnsJmKks1FPyyl4dK2CcLo.jpg",
+      "first_air_date": "2017-06-10",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 70626,
+      "name": "Stranger",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "비밀의 숲",
+      "overview": "With the help of a gutsy female detective, a prosecutor who has lost the ability to feel empathy tackles a murder case amid political corruption.",
+      "popularity": 27.903,
+      "poster_path": "/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+      "vote_average": 8.6,
+      "vote_count": 106
+    },
+    {
+      "backdrop_path": "/9GApID9Qis6j211XzjIu0uxckxb.jpg",
+      "first_air_date": "1996-01-10",
+      "genre_ids": [
+        10759,
+        16,
+        35
+      ],
+      "id": 28136,
+      "name": "Rurouni Kenshin",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "るろうに剣心 明治剣客浪漫譚",
+      "overview": "The Meiji Era was one of great renewal for Japan, where swords and killing were outlawed. However, many survivors from the time of Revolution still live, lurking in the shadows and waiting for a chance to use their killing blades again. Only Kenshin Himura, formerly one of the most brutal of killers, hopes to keep his swordsman's honor and still live in the new era.",
+      "popularity": 69.942,
+      "poster_path": "/lQ4p6OF9KjagTfs8otZt0VTe3Al.jpg",
+      "vote_average": 8.6,
+      "vote_count": 610
+    },
+    {
+      "backdrop_path": "/6ZgSNyG8TinOxwpITpeJDhQQOD9.jpg",
+      "first_air_date": "2009-11-27",
+      "genre_ids": [
+        35
+      ],
+      "id": 21650,
+      "name": "I'm in the Band",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "I'm in the Band",
+      "overview": "Tripp Campbell is the new lead guitarist for Iron Weasel, a band that once ruled the world of 80s pop metal. Can he push the washed-up rockers out of his parents' guest room and back in the limelight?",
+      "popularity": 30.71,
+      "poster_path": "/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg",
+      "vote_average": 8.6,
+      "vote_count": 208
+    },
+    {
+      "backdrop_path": "/vNpuAxGTl9HsUbHqam3E9CzqCvX.jpg",
+      "first_air_date": "2005-03-24",
+      "genre_ids": [
+        35
+      ],
+      "id": 2316,
+      "name": "The Office",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Office",
+      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "popularity": 154.187,
+      "poster_path": "/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg",
+      "vote_average": 8.6,
+      "vote_count": 2655
+    },
+    {
+      "backdrop_path": "/aJGPkrye2p8qzM42xSUtRvrZ5Ou.jpg",
+      "first_air_date": "2019-08-05",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 91425,
+      "name": "Infinity Train",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Infinity Train",
+      "overview": "Passengers on board the mysterious Infinity Train must explore a series of endless cars that each contain unique worlds and puzzles to solve in order to unravel the mysteries of the train - and within themselves - to open the doorway home.",
+      "popularity": 24.525,
+      "poster_path": "/jbobEBeSyPs2gPa2Kwz8FuDfWl9.jpg",
+      "vote_average": 8.6,
+      "vote_count": 167
+    },
+    {
+      "backdrop_path": "/71dyVj15t9POfVQQdmO5Rx1MiGP.jpg",
+      "first_air_date": "2001-04-01",
+      "genre_ids": [
+        10765,
+        16,
+        10759
+      ],
+      "id": 9302,
+      "name": "Digimon Tamers",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "デジモンテイマーズ",
+      "overview": "A group of 12-year-old fans of the Digimon card game meet their own Digimon friends and start to duel \"bio-emerging\" Digimon who cross the barrier between the information network and their world.",
+      "popularity": 35.249,
+      "poster_path": "/uEs5GRuibXsSnAH2Hr0DiWupyzb.jpg",
+      "vote_average": 8.6,
+      "vote_count": 267
+    },
+    {
+      "backdrop_path": "/u9BncsRESGAHicN67G7z6FlAQ3K.jpg",
+      "first_air_date": "2020-02-07",
+      "genre_ids": [
+        18,
+        18,
+        10765
+      ],
+      "id": 96160,
+      "name": "My Holo Love",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "나 홀로 그대",
+      "overview": "Unexpected love finds a lonely woman when she forms a connection with a humanlike hologram who looks exactly like his prickly creator.",
+      "popularity": 24.346,
+      "poster_path": "/nLbKNyUKq6WMMoPuL712m43MVhc.jpg",
+      "vote_average": 8.6,
+      "vote_count": 741
+    },
+    {
+      "backdrop_path": "/y64WatnpvoeudfapTPx9QFVKbqM.jpg",
+      "first_air_date": "2014-08-22",
+      "genre_ids": [
+        35,
+        18,
+        16
+      ],
+      "id": 61222,
+      "name": "BoJack Horseman",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "BoJack Horseman",
+      "overview": "Meet the most beloved sitcom horse of the 90s - 20 years later. BoJack Horseman was the star of the hit TV show \"Horsin' Around,\" but today he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+      "popularity": 115.762,
+      "poster_path": "/pB9L0jAnEQLMKgexqCEocEW8TA.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1654
+    },
+    {
+      "backdrop_path": "/zIML9hklxKu9qbESWrSPwD25f4H.jpg",
+      "first_air_date": "2020-09-10",
+      "genre_ids": [
+        10751,
+        35,
+        10765
+      ],
+      "id": 106292,
+      "name": "Julie and the Phantoms",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Julie and the Phantoms",
+      "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
+      "popularity": 14.092,
+      "poster_path": "/m6uNY62Rx6gpUkC7urCOrOTlaj2.jpg",
+      "vote_average": 8.6,
+      "vote_count": 491
+    },
+    {
+      "backdrop_path": "/z6ES1hCbLozoquj5wilidrtKBPp.jpg",
+      "first_air_date": "2007-02-15",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 31910,
+      "name": "Naruto Shippūden",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ナルト 疾風伝",
+      "overview": "Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
+      "popularity": 239.655,
+      "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+      "vote_average": 8.6,
+      "vote_count": 7084
+    },
+    {
+      "backdrop_path": "/t15KHp3iNfHVQBNIaqUGW12xQA4.jpg",
+      "first_air_date": "2015-02-08",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 60059,
+      "name": "Better Call Saul",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Better Call Saul",
+      "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+      "popularity": 247.904,
+      "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+      "vote_average": 8.6,
+      "vote_count": 3350
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296867bed2a789dc0cf445"
+  },
+  "page": 9,
+  "results": [
+    {
+      "backdrop_path": "/fasiIpVwkIauxjmqTFKHbrfKDDE.jpg",
+      "first_air_date": "2004-09-07",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 1600,
+      "name": "Ned's Declassified School Survival Guide",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Ned's Declassified School Survival Guide",
+      "overview": "The whacky adventures of Ned Bigby and his best pals Moze and Cookie at James K. Polk Middle School, as \"every-kid\" Ned shatters the fourth wall to share tips and tricks on navigating middle school or junior high hurdles. Ned's not super cool, and he has no superpowers. He is, however, witty, well-groomed, upbeat and self-aware. Moreover, with more than a little help from his two best friends, he's equipped to conquer middle school minefields. From crushing bullies to crushes, from off- the-wall, mean and cool teachers to pop quizzes, elections and detentions, Ned knows that nothing, including the seventh grade, is as bad as it seems, and friendship matters most.",
+      "popularity": 43.691,
+      "poster_path": "/mQzdNKFV71NXDQkhZG6IiQPof1F.jpg",
+      "vote_average": 8.6,
+      "vote_count": 838
+    },
+    {
+      "backdrop_path": "/bPeKdWGiYdY3qrTtrHG3Ydu0GJG.jpg",
+      "first_air_date": "2013-09-12",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 60574,
+      "name": "Peaky Blinders",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Peaky Blinders",
+      "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+      "popularity": 803.522,
+      "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "vote_average": 8.6,
+      "vote_count": 7416
+    },
+    {
+      "backdrop_path": "/revsbUS2IbmVuyttpugNlszdWXZ.jpg",
+      "first_air_date": "2018-08-03",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 81318,
+      "name": "Love By Chance",
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "บังเอิญรัก",
+      "overview": "Pete is a handsome, tall, white-skin guy and is followed by a lot of girls. But Pete is gay and is usually bullied by friends. So one day, when Pete was bullied by his friends, Ae appears and helps him. Then Ae accidentally becomes the “bodyguard” of Pete. Of course, Pete falls in love with Ae, but he decided to keep that secret in his mind because Pete knows Ae is not gay like him.",
+      "popularity": 15.641,
+      "poster_path": "/7OvHcQKApiCLw9spc04Er1CkTmo.jpg",
+      "vote_average": 8.5,
+      "vote_count": 183
+    },
+    {
+      "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "first_air_date": "1999-01-10",
+      "genre_ids": [
+        18
+      ],
+      "id": 1398,
+      "name": "The Sopranos",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Sopranos",
+      "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+      "popularity": 150.603,
+      "poster_path": "/u7dlARwP2zsqHaMNL5HtHhaEPea.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1882
+    },
+    {
+      "backdrop_path": "/xIg45aXla67Z8ds7vZFTRIrUmDj.jpg",
+      "first_air_date": "2018-01-05",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "id": 76125,
+      "name": "Record of Grancrest War",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "グランクレスト戦記",
+      "overview": "On a continent ruled by chaos, the Lords have the power of a holy seal that can calm the chaos and protect the people. However, before anyone realizes it, the rulers cast aside their creed of purifying the chaos, and instead start to fight each other for each other's holy seals to gain dominion over one another. Siluca, an isolated mage who scorns the Lords for abandoning their creed, and a wandering knight named Theo, who is on a journey to train to one day liberate his hometown, make an everlasting oath to work together to reform this continent dominated by wars and chaos.",
+      "popularity": 16.879,
+      "poster_path": "/mdxzMLYRWztBoowR1qWqKLgUld6.jpg",
+      "vote_average": 8.6,
+      "vote_count": 110
+    },
+    {
+      "backdrop_path": "/LXkKfwAgwhx0cn6nwunweOX8UN.jpg",
+      "first_air_date": "2011-05-02",
+      "genre_ids": [
+        16,
+        10751,
+        10765,
+        35
+      ],
+      "id": 37606,
+      "name": "The Amazing World of Gumball",
+      "origin_country": [
+        "US",
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "The Amazing World of Gumball",
+      "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+      "popularity": 179.048,
+      "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1061
+    },
+    {
+      "backdrop_path": "/7H4tSXXGz9enq0E2BEwojBdbHAX.jpg",
+      "first_air_date": "2015-07-05",
+      "genre_ids": [
+        16,
+        18,
+        10765
+      ],
+      "id": 63145,
+      "name": "Charlotte",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "シャーロット",
+      "overview": "All thanks to the special ability that he developed, Yuu was able to  cheat his way into a very prestigious high school. With his power, he  thought nothing was going to stand in his way, until he met a mysterious  girl named Nao Tomori and other students with special abilities just like him. It was the beginning to a new life.",
+      "popularity": 29.597,
+      "poster_path": "/rMOGHPGfuywDViL9Oc0tA29oxtA.jpg",
+      "vote_average": 8.6,
+      "vote_count": 473
+    },
+    {
+      "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+      "first_air_date": "2016-07-12",
+      "genre_ids": [
+        16,
+        10759,
+        35
+      ],
+      "id": 67075,
+      "name": "Mob Psycho 100",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "モブサイコ100",
+      "overview": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+      "popularity": 98.933,
+      "poster_path": "/5Wf9Y6gucbu1LMe1FyqD8TQjaNM.jpg",
+      "vote_average": 8.6,
+      "vote_count": 800
+    },
+    {
+      "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "first_air_date": "2020-10-03",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 95479,
+      "name": "Jujutsu Kaisen",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "呪術廻戦",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "popularity": 258.311,
+      "poster_path": "/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
+      "vote_average": 8.5,
+      "vote_count": 2347
+    },
+    {
+      "backdrop_path": "/omNNoERrtr7AzjxyUIk3NREa54b.jpg",
+      "first_air_date": "2018-07-09",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "id": 79818,
+      "name": "Meteor Garden",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "流星花园",
+      "overview": "An ordinary girl is admitted to the most prestigious school in the country where she encounters F4, an exclusive group comprised of the four wealthiest and handsomest boys in the school - Dao Ming Si, Hua Ze Lei, Xi Men and Mei Zuo.",
+      "popularity": 50.372,
+      "poster_path": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg",
+      "vote_average": 8.5,
+      "vote_count": 460
+    },
+    {
+      "backdrop_path": "/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+      "first_air_date": "2004-04-06",
+      "genre_ids": [
+        18,
+        80,
+        9648,
+        10768,
+        16
+      ],
+      "id": 30981,
+      "name": "Monster",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "MONSTER",
+      "overview": "Kenzou Tenma, a Japanese brain surgeon in Germany, finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+      "popularity": 52.178,
+      "poster_path": "/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+      "vote_average": 8.6,
+      "vote_count": 336
+    },
+    {
+      "backdrop_path": "/3bC5QIJ3P1ebC7PKwzUVfgub8I.jpg",
+      "first_air_date": "2021-04-08",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 112160,
+      "name": "The Way of the Househusband",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "極主夫道",
+      "overview": "Tatsu, a notorious and feared yakuza leader nicknamed \"The Immortal Dragon,\" withdraws from the criminal syndicate and becomes a housekeeper to help his wife, Miku. The series features a variety of comedic settings, typically showing Tatsu's domestic activities and intimidating inequality with his looks, as well as multiple encounters with his former colleagues and rivals in the Japanese Criminal Syndicate.",
+      "popularity": 18.597,
+      "poster_path": "/p63rAZt0s8kedJtdxGwD5VYZafc.jpg",
+      "vote_average": 8.5,
+      "vote_count": 301
+    },
+    {
+      "backdrop_path": "/oAfc1oNsURepm6VegBSBw1IGMF4.jpg",
+      "first_air_date": "2012-01-10",
+      "genre_ids": [
+        16,
+        18,
+        9648
+      ],
+      "id": 42589,
+      "name": "Another",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "アナザー",
+      "overview": "When Kouichi arrives at his new school, he immediately senses something frightening in the atmosphere of his new class, something that no student wants to talk about and that seems to be related to a mysterious and silent girl.",
+      "popularity": 39.014,
+      "poster_path": "/zut15joYgakBBSGUCFlISAdOemQ.jpg",
+      "vote_average": 8.5,
+      "vote_count": 795
+    },
+    {
+      "backdrop_path": "/bumV92xTI3R5Zd5X6biUy4rXbS4.jpg",
+      "first_air_date": "2020-10-03",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 100049,
+      "name": "TONIKAWA: Over the Moon for You",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "トニカクカワイイ",
+      "overview": "First comes marriage, then comes an earthbound love that is out of this world!\n\nFrom the day his parents named him, Nasa Yuzaki has been destined for outer space...or so he believes. But while trying to join the space program, he is thrown for a loop when an accident introduces him to Tsukasa, a mysterious girl with strange powers. Is she an alien, a moon goddess or something else? Since she insists on marrying him, Nasa has plenty of chances to find out!",
+      "popularity": 119.889,
+      "poster_path": "/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1193
+    },
+    {
+      "backdrop_path": "/qiDq1iCK0Ie9uwxJu2gDeVxDvI1.jpg",
+      "first_air_date": "2021-07-18",
+      "genre_ids": [
+        18
+      ],
+      "id": 124394,
+      "name": "Power Book III: Raising Kanan",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Power Book III: Raising Kanan",
+      "overview": "Set in South Jamaica, Queens, in 1991, this prequel to \"Power\" revolves around the coming of age of Kanan Stark.",
+      "popularity": 57.09,
+      "poster_path": "/cZwgcJMptOdlsOTWgkFaGfwZuVi.jpg",
+      "vote_average": 8.5,
+      "vote_count": 107
+    },
+    {
+      "backdrop_path": "/fRYwdeNjMqC30EhofPx5PlDpdun.jpg",
+      "first_air_date": "2018-10-25",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 79460,
+      "name": "Legacies",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Legacies",
+      "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+      "popularity": 193.25,
+      "poster_path": "/mwJ3OxbliRwCvceSJvAzPiFu4WZ.jpg",
+      "vote_average": 8.5,
+      "vote_count": 2608
+    },
+    {
+      "backdrop_path": "/vvAZwI5Kd4n3PI7ZrXjYpBEgpp0.jpg",
+      "first_air_date": "2020-01-13",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "id": 94404,
+      "name": "Dorohedoro",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ドロヘドロ",
+      "overview": "The story revolves around Kaiman, who does not remember who he was before he was transfigured by a Magic user. This transformation left him with a reptile's head, and a desire to find out the truth about who he really is. Accompanied by Nikaido, his female companion, he tracks down Magic Users in \"The Hole\" and unceremoniously chomps down on their head, hoping to find out who it was that put him in this state. One by one, they witness this \"second man\" inside the head of Kaiman, and after pulling them back out of his mouth he asks them all a question... \"What did the guy inside my head say?\"",
+      "popularity": 28.483,
+      "poster_path": "/v4gtXG5v1FXMC3PjMncHwbeTl5k.jpg",
+      "vote_average": 8.5,
+      "vote_count": 224
+    },
+    {
+      "backdrop_path": "/39nJ2BsWvD0fD0IUaGaTDA01Vel.jpg",
+      "first_air_date": "2019-10-02",
+      "genre_ids": [
+        10765,
+        35,
+        10759
+      ],
+      "id": 93657,
+      "name": "Extraordinary You",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "어쩌다 발견한 하루",
+      "overview": "What would you do if you found out that you were, in fact, a character in a comic? And an extra character on top of that? Change the course of the story, obviously!\n\nEun Dan Oh is a 17-year-old high-school student from a wealthy family who suffers from a lifelong heart condition that inevitably means she will not live past her teenage years. However, when Dan Oh realizes she is experiencing long gaps in her memory as well, she comes into the unhappy realization of another fact in her life: she is a character in a Korean webtoon and all of her actions are predetermined by the artist who draws her. To make matters worse, she discovers she is only a supporting character in the cast. With her newfound understanding of the world she inhabits, she is determined to find true love in her own plot-line and circumvent the author’s plans for her character by utilizing the flashes of storyboard she alone is able to see.",
+      "popularity": 29.15,
+      "poster_path": "/vse6Aq2BGz1CI2pa1JbOmyjXM37.jpg",
+      "vote_average": 8.5,
+      "vote_count": 107
+    },
+    {
+      "backdrop_path": "/i3GAgdr3adKPMI8FVxdXZuqiAQl.jpg",
+      "first_air_date": "2017-09-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "popularity": 548.485,
+      "poster_path": "/cXUqtadGsIcZDWUTrfnbDjAy8eN.jpg",
+      "vote_average": 8.5,
+      "vote_count": 10813
+    },
+    {
+      "backdrop_path": "/p3cAHHwyTJJoQlCtgYwb31t6rOq.jpg",
+      "first_air_date": "2022-04-22",
+      "genre_ids": [
+        18
+      ],
+      "id": 124834,
+      "name": "Heartstopper",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Heartstopper",
+      "overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+      "popularity": 129.333,
+      "poster_path": "/zvyVRRfCB9qze9TTRp1lhG2TRud.jpg",
+      "vote_average": 8.5,
+      "vote_count": 534
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "6329686abed2a789dc0cf446"
+  },
+  "page": 10,
+  "results": [
+    {
+      "backdrop_path": "/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg",
+      "first_air_date": "2020-10-07",
+      "genre_ids": [
+        10765,
+        18,
+        9648
+      ],
+      "id": 108284,
+      "name": "Tale of the Nine Tailed",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "구미호뎐",
+      "overview": "A nine-tailed fox settles down in the city. A female television PD chases after the nine-tailed fox.",
+      "popularity": 24.221,
+      "poster_path": "/jXx9vLO9bwKxl81oVQnzEH7960V.jpg",
+      "vote_average": 8.5,
+      "vote_count": 355
+    },
+    {
+      "backdrop_path": "/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+      "first_air_date": "1998-04-03",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        37
+      ],
+      "id": 30991,
+      "name": "Cowboy Bebop",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "カウボーイビバップ",
+      "overview": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters (also referred to as \"Cowboys\") chase criminals and bring them in alive in return for a reward.",
+      "popularity": 50.845,
+      "poster_path": "/g05iRzPzWwY2liQ60bvW51lLZHQ.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1150
+    },
+    {
+      "backdrop_path": "/wvdiTDDBxI0lix4Wbc2qePfgkA2.jpg",
+      "first_air_date": "2021-08-31",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "id": 107113,
+      "name": "Only Murders in the Building",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Only Murders in the Building",
+      "overview": "Three strangers who share an obsession with true crime suddenly find themselves wrapped up in one.",
+      "popularity": 80.193,
+      "poster_path": "/ArsVbYhS6DiFJtRAlV8ytAauNlp.jpg",
+      "vote_average": 8.5,
+      "vote_count": 787
+    },
+    {
+      "backdrop_path": "/7ZuUJCU7I5Gih75DXnvflLcU7N6.jpg",
+      "first_air_date": "2020-02-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 99385,
+      "name": "Unstoppable",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "Desenfrenadas",
+      "overview": "A group of friends set out on a road trip when an unexpected fourth passenger forces an abrupt change of plans.",
+      "popularity": 7.471,
+      "poster_path": "/uVAdl1XsfHe6mqaZX7bvLYEyjgC.jpg",
+      "vote_average": 8.5,
+      "vote_count": 146
+    },
+    {
+      "backdrop_path": "/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "first_air_date": "1997-10-08",
+      "genre_ids": [
+        10759,
+        10765,
+        16
+      ],
+      "id": 35935,
+      "name": "Berserk",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "剣風伝奇ベルセルク",
+      "overview": "Guts, a man who calls himself \"The Black Swordsman\", looks back upon his days serving as a member of a group of mercenaries. Led by an ambitious, ruthless, and intelligent man named Griffith, together they battle their way into the royal court, and are forced into a fate that changes their lives.",
+      "popularity": 40.761,
+      "poster_path": "/iHTSIrdMvaXM4eOFPo6SvAoxZZh.jpg",
+      "vote_average": 8.5,
+      "vote_count": 351
+    },
+    {
+      "backdrop_path": "/f6dv4p73sQoWj5jUWnUKsUhNwbV.jpg",
+      "first_air_date": "2003-03-15",
+      "genre_ids": [
+        35,
+        10762,
+        10751
+      ],
+      "id": 43,
+      "name": "31 Minutos",
+      "origin_country": [
+        "CL"
+      ],
+      "original_language": "es",
+      "original_name": "31 Minutos",
+      "overview": "Chilean television show which takes the form of a mock news broadcast, and is fronted by puppets who present various items.",
+      "popularity": 11.756,
+      "poster_path": "/gKbhADGjtMB1MxirBfroWoraKrf.jpg",
+      "vote_average": 8.5,
+      "vote_count": 266
+    },
+    {
+      "backdrop_path": "/zkc2FkVymJDNXisS1mgpr8Ip2J.jpg",
+      "first_air_date": "2015-01-10",
+      "genre_ids": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "id": 62110,
+      "name": "Assassination Classroom",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "暗殺教室",
+      "overview": "The students of class 3-E have a mission: kill their teacher before graduation. He has already destroyed the moon, and has promised to destroy the Earth if he can not be killed within a year. But how can this class of misfits kill a tentacled monster, capable of reaching Mach 20 speed, who may be the best teacher any of them have ever had?",
+      "popularity": 72.044,
+      "poster_path": "/qf0l0nQ2t06Es3cSXflqx6l6vsJ.jpg",
+      "vote_average": 8.5,
+      "vote_count": 805
+    },
+    {
+      "backdrop_path": "/pBHXMfeNWVMR7stjnCaSOZLOV7I.jpg",
+      "first_air_date": "2018-10-27",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "id": 83639,
+      "name": "Girl from Nowhere",
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "เด็กใหม่",
+      "overview": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+      "popularity": 95.817,
+      "poster_path": "/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg",
+      "vote_average": 8.5,
+      "vote_count": 707
+    },
+    {
+      "backdrop_path": "/jt7c70Axkhy7o9u00JT8Lygfd3H.jpg",
+      "first_air_date": "2018-03-16",
+      "genre_ids": [
+        35
+      ],
+      "id": 76747,
+      "name": "On My Block",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "On My Block",
+      "overview": "A coming of age comedy following a diverse group of teenage friends as they confront the challenges of growing up in gritty inner-city Los Angeles.",
+      "popularity": 36.568,
+      "poster_path": "/aFHmGVDNLFmhLjDNbFuMSBOxUv5.jpg",
+      "vote_average": 8.5,
+      "vote_count": 566
+    },
+    {
+      "backdrop_path": "/rpB9xThPAHPpBHwNe5g7th6WsAW.jpg",
+      "first_air_date": "2017-01-26",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 69050,
+      "name": "Riverdale",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Riverdale",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "popularity": 275.581,
+      "poster_path": "/kzZUa05wZOEiC2UVuJA2T8VrETU.jpg",
+      "vote_average": 8.5,
+      "vote_count": 12804
+    },
+    {
+      "backdrop_path": "/mkmlUSTmOb2LI5A6aU1gHaRDElG.jpg",
+      "first_air_date": "2003-09-15",
+      "genre_ids": [
+        18
+      ],
+      "id": 333,
+      "name": "Jewel in the Palace",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "대장금",
+      "overview": "Starring Lee Young Ae, it tells the tale of an orphaned kitchen cook who went on to become the king's first female physician. In a time when women held little influence in society, young apprentice cook Jang Geum strives to learn the secrets of Korean cooking and medicine in order to cure the King of his various ailments. It is based on the true story of Jang-geum, the first female royal physician of the Joseon Dynasty. The main themes are her perseverance and the portrayal of traditional Korean culture, including Korean royal court cuisine and traditional medicine.",
+      "popularity": 42.515,
+      "poster_path": "/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+      "vote_average": 8.5,
+      "vote_count": 178
+    },
+    {
+      "backdrop_path": "/h8gWQSr7EXd7vap1D42Cp9IAIiT.jpg",
+      "first_air_date": "2018-01-21",
+      "genre_ids": [
+        18
+      ],
+      "id": 74016,
+      "name": "The Resident",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Resident",
+      "overview": "A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.",
+      "popularity": 124.761,
+      "poster_path": "/yjsPrZfSz69HbnYZcRHNBdTZOSA.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1091
+    },
+    {
+      "backdrop_path": "/hmLTIRtVyTHShJl2Wb8LHmvUgJm.jpg",
+      "first_air_date": "2010-07-25",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 19885,
+      "name": "Sherlock",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Sherlock",
+      "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "popularity": 84.951,
+      "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "vote_average": 8.5,
+      "vote_count": 3930
+    },
+    {
+      "backdrop_path": "/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+      "first_air_date": "2020-12-18",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 96648,
+      "name": "Sweet Home",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "스위트홈",
+      "overview": "As humans turn into savage monsters and wreak terror, one troubled teen and his apartment neighbors fight to survive — and to hold on to their humanity.",
+      "popularity": 70.017,
+      "poster_path": "/1h4OqxXYRRM2FA3Nu6GBgD3puJj.jpg",
+      "vote_average": 8.5,
+      "vote_count": 883
+    },
+    {
+      "backdrop_path": "/hGtx3dAB6x0ShXpDk4BBvt74Mtx.jpg",
+      "first_air_date": "2020-09-21",
+      "genre_ids": [
+        18,
+        35,
+        10765
+      ],
+      "id": 99654,
+      "name": "18 Again",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "18 어게인",
+      "overview": "At a difficult place in his marriage and career, a middle-aged man gets a shot at a do-over when he's transformed back into his 18-year-old body.",
+      "popularity": 20.005,
+      "poster_path": "/v6wGRQNp2XlgFlmX15R70QnwplU.jpg",
+      "vote_average": 8.5,
+      "vote_count": 136
+    },
+    {
+      "backdrop_path": "/czOrdjHvsJfQYLjTAyn8whIB0yj.jpg",
+      "first_air_date": "2020-04-15",
+      "genre_ids": [
+        10759,
+        18,
+        9648
+      ],
+      "id": 100757,
+      "name": "Outer Banks",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Outer Banks",
+      "overview": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+      "popularity": 36.3,
+      "poster_path": "/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+      "vote_average": 8.5,
+      "vote_count": 488
+    },
+    {
+      "backdrop_path": "/tQItgCaJVrXhe6CsJZ5qOKpOoRQ.jpg",
+      "first_air_date": "2017-10-03",
+      "genre_ids": [
+        10759,
+        16,
+        35
+      ],
+      "id": 73223,
+      "name": "Black Clover",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブラッククローバー",
+      "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+      "popularity": 61.841,
+      "poster_path": "/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1492
+    },
+    {
+      "backdrop_path": "/qHYWVludqLmTIzwjjJLqHljiDDQ.jpg",
+      "first_air_date": "2018-02-26",
+      "genre_ids": [
+        16,
+        10759,
+        10765,
+        35
+      ],
+      "id": 74387,
+      "name": "Final Space",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Final Space",
+      "overview": "An astronaut named Gary and his planet-destroying sidekick Mooncake embark on serialized journeys through space in order to unlock the mystery of “Final Space,” the last point in the universe, if it actually does exist.",
+      "popularity": 37.811,
+      "poster_path": "/zT6tXWsJoBOWJT1PeUEKLTFOoHh.jpg",
+      "vote_average": 8.5,
+      "vote_count": 649
+    },
+    {
+      "backdrop_path": "/xZUZ9i6vVayjyhR1vRo9Bjku4h.jpg",
+      "first_air_date": "2016-01-25",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 870.132,
+      "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+      "vote_average": 8.5,
+      "vote_count": 12458
+    },
+    {
+      "backdrop_path": "/jm8fUh70x9WUIg7tMGMTHEmLhI4.jpg",
+      "first_air_date": "2006-10-07",
+      "genre_ids": [
+        10759,
+        16,
+        35
+      ],
+      "id": 37585,
+      "name": "Kenichi: The Mightiest Disciple",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "史上最強の弟子ケンイチ",
+      "overview": "Yeah, Kenichi’s a total wimp. He’s always getting picked on and doesn’t have a lot of friends to stick up for him. The guy needs motivation if he hopes to graduate in one piece. Well, Miu’s the perfect motivation. She’s hot, she accepts him, and she just so happens to live at a dojo with six martial arts masters. You could say fate has led Kenichi to their door, or you could say he was just following the hottie. Either way, he’s about to get whipped into serious shape. If he can survive some hard-core training, he might survive another day at school. He might even score with Miu. Yeah, you could call Kenichi a wimp. But let’s go with underdog instead.",
+      "popularity": 66.437,
+      "poster_path": "/pLzfW5xWN9sOId6C6vgcv8otnN7.jpg",
+      "vote_average": 8.5,
+      "vote_count": 404
+    }
+  ],
+  "total_pages": 129,
+  "total_results": 2575
+},{
+  "_id": {
+    "$oid": "63296dabbed2a789dc0cf479"
+  },
+  "page": 11,
+  "results": [],
+  "total_pages": 14,
+  "total_results": 276
+}]

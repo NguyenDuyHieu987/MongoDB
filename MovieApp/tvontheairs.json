@@ -1,0 +1,2065 @@
+[{
+  "_id": {
+    "$oid": "632965c5bed2a789dc0cf436"
+  },
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg",
+      "first_air_date": "2022-08-21",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 94997,
+      "name": "House of the Dragon",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "popularity": 8735.731,
+      "poster_path": "/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1255
+    },
+    {
+      "backdrop_path": "/pdfCr8W0wBCpdjbZXSxnKhZtosP.jpg",
+      "first_air_date": "2022-09-01",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "id": 84773,
+      "name": "The Lord of the Rings: The Rings of Power",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "popularity": 5407.801,
+      "poster_path": "/suyNxglk17Cpk8rCM2kZgqKdftk.jpg",
+      "vote_average": 7.6,
+      "vote_count": 679
+    },
+    {
+      "backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+      "first_air_date": "2022-08-18",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "id": 92783,
+      "name": "She-Hulk: Attorney at Law",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "She-Hulk: Attorney at Law",
+      "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+      "popularity": 3515.825,
+      "poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+      "vote_average": 7.3,
+      "vote_count": 720
+    },
+    {
+      "backdrop_path": "/uGy4DCmM33I7l86W7iCskNkvmLD.jpg",
+      "first_air_date": "2013-12-02",
+      "genre_ids": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "id": 60625,
+      "name": "Rick and Morty",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Rick and Morty",
+      "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "popularity": 2075.747,
+      "poster_path": "/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg",
+      "vote_average": 8.7,
+      "vote_count": 6990
+    },
+    {
+      "backdrop_path": "/8aJjd7X4UfpxqtV7ukiAqBgTaQz.jpg",
+      "first_air_date": "2022-08-24",
+      "genre_ids": [],
+      "id": 208883,
+      "name": "The Investigator",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "简言的夏冬",
+      "overview": "A story about risk management follows a team of investigators who work together to eliminate fraud.\n\nXia Dong who works as an investigator for a global company that specializes in risk management has always considered professional ethics to be his life's mission. In order to complete a job that was assigned to him and to uncover the truth behind an incident that got him framed while studying abroad, Xia Dong transfers from US headquarters to the Shanghai branch. In his new office, he encounters Jian Yan, his junior at school who now works as an investigator.  In the following days and nights, Xia Dong's righteousness and kindness shines through and easily helps in resolving the misunderstandings from the past. Soon after, Xia Dong and Jian Yan are conducting a background check on a company and find themselves facing repeated threats on their life after they helped Lin Jun Wen, an old classmate.",
+      "popularity": 1302.631,
+      "poster_path": "/74Z6Ka23i1lKd4ytqXY1nzqVBz.jpg",
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg",
+      "first_air_date": "2022-08-22",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 204095,
+      "name": "Mar do Sertão",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Mar do Sertão",
+      "overview": "",
+      "popularity": 1273.304,
+      "poster_path": "/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg",
+      "vote_average": 5.6,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/hLi5umdYp8VyoQqPE9QXCUsW0Ps.jpg",
+      "first_air_date": "2000-07-03",
+      "genre_ids": [
+        10764
+      ],
+      "id": 911,
+      "name": "Kaun Banega Crorepati",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "कौन बनेगा करोड़पति",
+      "overview": "Hosted by India's biggest superstar, Amitabh Bachchan, one of the biggest shows is here to entertain millions, change lives and make dreams come true.",
+      "popularity": 995.322,
+      "poster_path": "/8srHjzgZq9V9sgsTkIwGARDyADj.jpg",
+      "vote_average": 7.3,
+      "vote_count": 20
+    },
+    {
+      "backdrop_path": "/escBySi78E2rcrphN973x7txmJq.jpg",
+      "first_air_date": "2022-08-15",
+      "genre_ids": [
+        10759,
+        10765,
+        18
+      ],
+      "id": 121750,
+      "name": "Darna",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Darna",
+      "overview": "When fragments of a green crystal scatter in the city and turn people into destructive monsters, Narda embraces her destiny as Darna—the mighty protector of the powerful stone from Planet Marte.",
+      "popularity": 825.809,
+      "poster_path": "/CFOce6pbb3FRNaBaVdvNsCv5kR.jpg",
+      "vote_average": 3,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/hNwopoqRDazw1uPHY2jSNmV2gS2.jpg",
+      "first_air_date": "2005-06-06",
+      "genre_ids": [
+        10763,
+        10764,
+        99
+      ],
+      "id": 203599,
+      "name": "Scoop",
+      "origin_country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "original_name": "東張西望",
+      "overview": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly based on entertainment news and personal follow-up of the artists, and will also be interspersed with the latest trends of TVB dramas and artists. Some entertainment news content clips will be rebroadcast on the next day's \"Entertainment Live\".\n\nThis program will be broadcast on Jade Channel from 19:30-20:00 (Hong Kong time) from June 6, 2005, and will be broadcast every day from March 3, 2019, and will be broadcast on myTV (later myTV SUPER) to provide \"Program Review\".",
+      "popularity": 823.689,
+      "poster_path": "/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+      "vote_average": 8.8,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/jW61BMd1ZVWPXI7Ts4iC2BTx8Qj.jpg",
+      "first_air_date": "2022-04-11",
+      "genre_ids": [
+        18
+      ],
+      "id": 196572,
+      "name": "The Secret House",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "The Secret House",
+      "overview": "A story about quitting being a good boy and chasing evil to the end for the sake of the mother and sister who sacrificed for themselves.\n\nA revenge play in which a dirt spoon lawyer chasing the traces of his missing mother walks into the secret surrounding him to fight the world.",
+      "popularity": 1067.563,
+      "poster_path": "/wNN9hJDV45BF2PiJQQVwBCiqLIl.jpg",
+      "vote_average": 5.6,
+      "vote_count": 13
+    },
+    {
+      "backdrop_path": "/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+      "first_air_date": "2018-07-01",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 80020,
+      "name": "Super Dragon Ball Heroes",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "スーパードラゴンボールヒーローズ",
+      "overview": "Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?",
+      "popularity": 665.745,
+      "poster_path": "/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg",
+      "vote_average": 7.6,
+      "vote_count": 2762
+    },
+    {
+      "backdrop_path": "/x0RRnWdYeczF4KXDqW8blda7SKS.jpg",
+      "first_air_date": "2022-03-28",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 158415,
+      "name": "Pantanal",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Pantanal",
+      "overview": "After the mysterious disappearance of his father, Joventino, the cowboy José Leôncio becomes a wealthy farm owner in Pantanal. Over twenty years have passed and, bitter-hearted because of his father vanishing and the escape of his wife to Rio de Janeiro with his baby, José Leôncio has the chance to make amends with the boy, now a young man raised in the big city with very different values and habits than his own.",
+      "popularity": 886.452,
+      "poster_path": "/4Ru1BwcAKWtpM345dWe8YgHf35V.jpg",
+      "vote_average": 5.7,
+      "vote_count": 49
+    },
+    {
+      "backdrop_path": "/kOkmTrD8kWLeTXcAEwctg6GwW7t.jpg",
+      "first_air_date": "2017-02-20",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 91759,
+      "name": "Come Home Love: Lo and Behold",
+      "origin_country": [
+        "HK"
+      ],
+      "original_language": "cn",
+      "original_name": "Come Home Love: Lo and Behold",
+      "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+      "popularity": 1013.148,
+      "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "vote_average": 4.3,
+      "vote_count": 10
+    },
+    {
+      "backdrop_path": "/FbUIi5WeDU5j1EtipQ274tts1E.jpg",
+      "first_air_date": "2022-04-11",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 197352,
+      "name": "Bravo, My Life",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "으라차차 내 인생",
+      "overview": "Even though Seo Dong Hee comes from a poor family background, she has a bright and positive personality. She dreams of becoming a designer and slowly works her way to achieve her dream. She decides to become the mother of her nephew and raise him by herself. She also gets involved with Kang Cha Yeol. Kang Cha Yeol’s father runs a big company. His father wants him to work for his company, but Kang Cha Yeol doesn't want to. He wants to go back to the U.S., but he realizes he can't do anything without his father's financial support. His father tells Kang Cha Yeol to work for 1 year at his company.",
+      "popularity": 935.215,
+      "poster_path": "/3ehMAk8E9zETA9r2ZydwVrgUoP3.jpg",
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/zJNEXWx3YyWGQioCbutFd5dcNYS.jpg",
+      "first_air_date": "2022-03-21",
+      "genre_ids": [
+        10766,
+        10759,
+        10751
+      ],
+      "id": 157059,
+      "name": "Poliana Moça",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Poliana Moça",
+      "overview": "",
+      "popularity": 755.762,
+      "poster_path": "/17yQZnnodzS1ZrKcpqHnQV8eQGN.jpg",
+      "vote_average": 7.9,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/sIRK4NYe1OK2hOJAg4xxuxzceKk.jpg",
+      "first_air_date": "2022-05-16",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 135647,
+      "name": "2 Good 2 Be True",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "2 Good 2 Be True",
+      "overview": "Car mechanic Eloy makes a terrible first impression on Ali, who works for a real estate magnate. But both of them are hiding their true personas.",
+      "popularity": 523.047,
+      "poster_path": "/2Wf5ySCPcnp8lRhbSD7jt0YLz5A.jpg",
+      "vote_average": 7.5,
+      "vote_count": 182
+    },
+    {
+      "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "first_air_date": "1989-12-17",
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": 456,
+      "name": "The Simpsons",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "popularity": 536.611,
+      "poster_path": "/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+      "vote_average": 8,
+      "vote_count": 8211
+    },
+    {
+      "backdrop_path": "/wNKwOtq27yfN13SKKV07NwkpBA3.jpg",
+      "first_air_date": "2019-11-01",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 80752,
+      "name": "See",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "See",
+      "overview": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
+      "popularity": 461.771,
+      "poster_path": "/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+      "vote_average": 8.2,
+      "vote_count": 1745
+    },
+    {
+      "backdrop_path": "/m71hrbhXpY45RB1kW4fYCTlnmZN.jpg",
+      "first_air_date": "2022-01-03",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 125282,
+      "name": "The Cleaning Lady",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Cleaning Lady",
+      "overview": "A whip-smart doctor comes to the U.S. for a medical treatment to save her ailing son. But when the system fails and pushes her into hiding, she refuses to be beaten down and marginalized. Instead, she becomes a cleaning lady for the mob and starts playing the game by her own rules.",
+      "popularity": 478.432,
+      "poster_path": "/bdnFr8NwZF0i3rlB5x1Qok93kU0.jpg",
+      "vote_average": 7.8,
+      "vote_count": 43
+    },
+    {
+      "backdrop_path": "/ry9SsBPOShH7eEL2dJc1coCBh8X.jpg",
+      "first_air_date": "2022-03-07",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 157936,
+      "name": "For You",
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "Por Ti",
+      "overview": "In the parish of Rio Meandro, two villages are at war over the construction of a dam that will submerge one of them: either Aldeia Velha or Aldeia Nova.",
+      "popularity": 623.617,
+      "poster_path": "/7GmlOYoR2GNiBRFs47azHIcqncR.jpg",
+      "vote_average": 5.3,
+      "vote_count": 10
+    }
+  ],
+  "total_pages": 57,
+  "total_results": 1129
+},{
+  "_id": {
+    "$oid": "632965c9bed2a789dc0cf437"
+  },
+  "page": 2,
+  "results": [
+    {
+      "backdrop_path": "/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+      "first_air_date": "1999-09-20",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 2734,
+      "name": "Law & Order: Special Victims Unit",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order: Special Victims Unit",
+      "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "popularity": 499.901,
+      "poster_path": "/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg",
+      "vote_average": 7.9,
+      "vote_count": 3004
+    },
+    {
+      "backdrop_path": "/noT2VqMDWi4uBpJYwyVCx6KR4V4.jpg",
+      "first_air_date": "2022-09-01",
+      "genre_ids": [
+        18
+      ],
+      "id": 209336,
+      "name": "Brave Wuju",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "勇者无惧",
+      "overview": "",
+      "popularity": 426.947,
+      "poster_path": "/nR4gjtQyOQxwOze0LKtpSV1meBD.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/qmcoEOrTm6BcgR4iO7KBQKE9AKT.jpg",
+      "first_air_date": "2003-09-23",
+      "genre_ids": [
+        80,
+        10759,
+        18
+      ],
+      "id": 4614,
+      "name": "NCIS",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "NCIS",
+      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "popularity": 378.564,
+      "poster_path": "/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1855
+    },
+    {
+      "backdrop_path": "/eGAOc17X55kIVjhPhflRbi8DrgF.jpg",
+      "first_air_date": "2022-06-06",
+      "genre_ids": [
+        10766,
+        35,
+        18
+      ],
+      "id": 202740,
+      "name": "Lua de Mel",
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "Lua de Mel",
+      "overview": "",
+      "popularity": 507.777,
+      "poster_path": "/8lIzd4bSU1xoWwcFihI3BzeWsz3.jpg",
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/vjcuLy14kxgxCaBToAudZWrGQQh.jpg",
+      "first_air_date": "2021-01-18",
+      "genre_ids": [
+        10764
+      ],
+      "id": 117031,
+      "name": "People Puzzler",
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "People Puzzler",
+      "overview": "Three lucky contestants put their pop culture knowledge to the test to complete iconic, People Puzzler crosswords. The player with the most points at the end of three rounds wins the game and goes on to play the \"Fast Puzzle Round\" for an enormous cash prize.",
+      "popularity": 484.35,
+      "poster_path": "/gELQSCY5KKIGQAmOHbcgcRGNlp5.jpg",
+      "vote_average": 5.5,
+      "vote_count": 11
+    },
+    {
+      "backdrop_path": "/wcbrJB42U6yQuwLC3icxJrjc52w.jpg",
+      "first_air_date": "2022-05-30",
+      "genre_ids": [
+        35,
+        10765
+      ],
+      "id": 152296,
+      "name": "Love in 40 Days",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "Love in 40 Days",
+      "overview": "After getting involved in a fatal car crash, a competitive career woman arrives in an uncanny purgatory. While settling her unfinished businesses as a lingering spirit, she meets and finds her soulmate in a rebellious scion with a third eye.",
+      "popularity": 476.112,
+      "poster_path": "/x7qeqSNB5wN93U2EvOniELSXuNz.jpg",
+      "vote_average": 3.9,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/3dsBFIlsaoPFNWQYcHiSlFaQFO5.jpg",
+      "first_air_date": "2020-10-07",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 110562,
+      "name": "A Woman Scorned",
+      "origin_country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "original_name": "Sadakatsiz",
+      "overview": "Asya is a successful doctor and she has a perfect life with her husband and her son. But after finding a blonde hair on her husband's scarf, everything changes and she discovers her husband's extramarital affair.",
+      "popularity": 312.454,
+      "poster_path": "/i4dD4K0udXVosxOa7wBXpkCKgP1.jpg",
+      "vote_average": 6.7,
+      "vote_count": 15
+    },
+    {
+      "backdrop_path": "/dld0di3IPDBQ8zqc0AHT9vFJ5tv.jpg",
+      "first_air_date": "2022-01-10",
+      "genre_ids": [],
+      "id": 154828,
+      "name": "Vandaag Inside",
+      "origin_country": [
+        "NL"
+      ],
+      "original_language": "nl",
+      "original_name": "Vandaag Inside",
+      "overview": "",
+      "popularity": 464.325,
+      "poster_path": "/xEFfIcHzlxiYw8e6hXRCqskSKsG.jpg",
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/fMvRiykSZrb5KCQnHxe3dNN5XKX.jpg",
+      "first_air_date": "2022-06-27",
+      "genre_ids": [
+        18
+      ],
+      "id": 194619,
+      "name": "A Family Affair",
+      "origin_country": [
+        "PH"
+      ],
+      "original_language": "tl",
+      "original_name": "A Family Affair",
+      "overview": "An inheritance from the late matriarch of the Estrellas intertwines the life of Cherry Red with Dave, Paco, Seb, and Drew. Amid the romance that arose between her and two of the four brothers, Cherry's past unravels and exposes deeply buried secrets.",
+      "popularity": 463.882,
+      "poster_path": "/gkap4pWN722E0UK9WNL2vjGnAtw.jpg",
+      "vote_average": 3.2,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/26be9JndZG6uYBfNPAy51dUKj0y.jpg",
+      "first_air_date": "2022-01-03",
+      "genre_ids": [
+        10766
+      ],
+      "id": 154571,
+      "name": "Quero é Viver",
+      "origin_country": [
+        "PT"
+      ],
+      "original_language": "pt",
+      "original_name": "Quero é Viver",
+      "overview": "Ana Margarida Rosa Lobo, a 70-year-old actress at the end of her career, discovers she has Alzheimer's and without explaining to anyone, she decides to end her five-decade marriage with Sérgio and move to another house to enjoy her lucidity while she can. This decision causes an upheaval in the professional and personal lives of her four daughters. Faced with this situation, the family will be tested to the limit and the four women change their way of looking at life, questioning their love relationships that they have also built.",
+      "popularity": 442.315,
+      "poster_path": "/bAp4W1ppwVlp7EpJb91RwTTLhm3.jpg",
+      "vote_average": 6.1,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
+      "first_air_date": "2017-04-26",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 69478,
+      "name": "The Handmaid's Tale",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Handmaid's Tale",
+      "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship. A TV adaptation of Margaret Atwood's novel.",
+      "popularity": 290.391,
+      "poster_path": "/tFTJ3YbOor3BtabI96QehXxEBii.jpg",
+      "vote_average": 8.2,
+      "vote_count": 2043
+    },
+    {
+      "backdrop_path": "/mHUkSCLQkNPQqRIVjoqPcsEDKfr.jpg",
+      "first_air_date": "1975-10-20",
+      "genre_ids": [
+        10763
+      ],
+      "id": 1655,
+      "name": "PBS NewsHour",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "PBS NewsHour",
+      "overview": "America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.",
+      "popularity": 396.504,
+      "poster_path": "/rhd0rmg0dd4foBJJxiPzFKLon89.jpg",
+      "vote_average": 5.3,
+      "vote_count": 35
+    },
+    {
+      "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "first_air_date": "1999-01-31",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 1434,
+      "name": "Family Guy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Family Guy",
+      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "popularity": 294.219,
+      "poster_path": "/9RBeCo8QSaoJLmmuzlwzVH3Hi12.jpg",
+      "vote_average": 7.2,
+      "vote_count": 3448
+    },
+    {
+      "backdrop_path": "/6t8dPEnHdCq8cHwiVOHpIYNr0df.jpg",
+      "first_air_date": "2022-07-06",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 114477,
+      "name": "Harem in the Labyrinth of Another World",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "異世界迷宮でハーレムを",
+      "overview": "High school student Michio Kaga was wandering aimlessly through life and the Internet, when he finds himself transported from a shady website to a fantasy world — reborn as a strong man who can use \"cheat\" powers. He uses his powers to become an adventurer, earn money, and get the right to claim girls that have idol-level beauty to form his very own harem.",
+      "popularity": 252.746,
+      "poster_path": "/b4JCDJEyd5yh8u1Z5CQpyM3eiJ4.jpg",
+      "vote_average": 6.5,
+      "vote_count": 19
+    },
+    {
+      "backdrop_path": "/lbjfqpOJ8kQf0Frh48RibOseEX9.jpg",
+      "first_air_date": "2019-09-12",
+      "genre_ids": [
+        18
+      ],
+      "id": 92967,
+      "name": "Miracle Doctor",
+      "origin_country": [
+        "TR"
+      ],
+      "original_language": "tr",
+      "original_name": "Mucize Doktor",
+      "overview": "Ali was born in a provincial town and was rejected by his father for adoption. Ali with savant syndrome, who grew up in orphanages, graduated from the faculty of medicine with a first degree.",
+      "popularity": 260.129,
+      "poster_path": "/ypfoiA298wMAOVPTkB73xJtKTG5.jpg",
+      "vote_average": 8.1,
+      "vote_count": 833
+    },
+    {
+      "backdrop_path": "/nYMxFCGePE5HaYG2ICJvjapvs67.jpg",
+      "first_air_date": "2005-02-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 1433,
+      "name": "American Dad!",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "American Dad!",
+      "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+      "popularity": 217.596,
+      "poster_path": "/b2XLAyJKLnZWClMmzNieoa33Sf6.jpg",
+      "vote_average": 6.9,
+      "vote_count": 1596
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2019-01-28",
+      "genre_ids": [
+        10763
+      ],
+      "id": 154300,
+      "name": "Euronews Hoy",
+      "origin_country": [
+        "ES",
+        "FR"
+      ],
+      "original_language": "es",
+      "original_name": "Euronews Hoy",
+      "overview": "",
+      "popularity": 334.282,
+      "poster_path": "/ujeIjo0GTRbFJcgjhgFZda78A90.jpg",
+      "vote_average": 5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/ggkYRGptz8eKTYnDefEjsX7fazd.jpg",
+      "first_air_date": "2022-05-26",
+      "genre_ids": [
+        16,
+        10762
+      ],
+      "id": 158691,
+      "name": "My Little Pony: Make Your Mark",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "My Little Pony: Make Your Mark",
+      "overview": "The series will center on the adventures of Sunny Starscout and her friends after the events depicted in the film.",
+      "popularity": 183.508,
+      "poster_path": "/jfmQPOHnuARC7YxGYC1vMMph3vp.jpg",
+      "vote_average": 8.2,
+      "vote_count": 103
+    },
+    {
+      "backdrop_path": "/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg",
+      "first_air_date": "2021-09-28",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 128839,
+      "name": "La Brea",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "La Brea",
+      "overview": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+      "popularity": 264.344,
+      "poster_path": "/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+      "vote_average": 7.3,
+      "vote_count": 785
+    },
+    {
+      "backdrop_path": "/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+      "first_air_date": "2017-07-12",
+      "genre_ids": [
+        18,
+        16
+      ],
+      "id": 72517,
+      "name": "Classroom of the Elite",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ようこそ実力至上主義の教室へ",
+      "overview": "Koudo Ikusei Senior High School is a leading prestigious school with state-of-the-art facilities where nearly 100% of students go on to university or find employment. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is a paradise-like school, but the truth is that only the most superior of students receive favorable treatment.\n\nAyanokouji Kiyotaka is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Horikita Suzune and Kushida Kikyou, two other students in his class, Kiyotaka’s situation begins to change.",
+      "popularity": 230.169,
+      "poster_path": "/8BtSk9DGIlS24otIB3qCagVCI6W.jpg",
+      "vote_average": 8.7,
+      "vote_count": 460
+    }
+  ],
+  "total_pages": 57,
+  "total_results": 1134
+},{
+  "_id": {
+    "$oid": "632965cdbed2a789dc0cf438"
+  },
+  "page": 3,
+  "results": [
+    {
+      "backdrop_path": "/mqnyFBK7RMZaGhD6gVHspoUYK6I.jpg",
+      "first_air_date": "2021-02-08",
+      "genre_ids": [
+        35,
+        18,
+        10751
+      ],
+      "id": 119316,
+      "name": "Wagle Ki Duniya",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "वागले की दुनिया",
+      "overview": "Three generations of the family live together, who share all their happiness and sorrows. Follow the story of this family as they bring laughter to each other's lives and will make your heart melt. A new generation of the old critically acclaimed show is here to take you on a roller coaster ride of emotions.",
+      "popularity": 260.625,
+      "poster_path": "/jKonm6Q3vw51Ytd4y7bJ70xJT7l.jpg",
+      "vote_average": 5.8,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/1KxLxLcMZbtR3Jf32s2jhvZzA6r.jpg",
+      "first_air_date": "2018-01-03",
+      "genre_ids": [
+        18,
+        80,
+        10759
+      ],
+      "id": 75219,
+      "name": "9-1-1",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "9-1-1",
+      "overview": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+      "popularity": 190.581,
+      "poster_path": "/yD8iS1Hbq76XmWzbaFbWH66SFH6.jpg",
+      "vote_average": 8.2,
+      "vote_count": 1856
+    },
+    {
+      "backdrop_path": "/6LFINpphlA8RvkxygndMWuhmeJe.jpg",
+      "first_air_date": "2022-07-05",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 194774,
+      "name": "Vermeil in Gold",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "金装のヴェルメイユ~崖っぷち魔術師は最強の厄災と魔法世界を突き進む~",
+      "overview": "Rather than take a more sensible approach to salvaging his grades in time for graduation, Alto summons a bit of otherworldly help. Only after does he learn he’s bound the legendary she-devil Vermeil into service as his familiar!",
+      "popularity": 298.518,
+      "poster_path": "/gozUDZOZZq19vcnnP95eU5MINoa.jpg",
+      "vote_average": 6.3,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/h2n5DYzdNRJ5tWgYhBhcO9gzxkJ.jpg",
+      "first_air_date": "2022-07-09",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 157842,
+      "name": "Black Summoner",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "黒の召喚士",
+      "overview": "Waking up in a strange new place with no memory of his past life, Kelvin learns that he's bartered away those very memories in exchange for powerful new abilities during his recent transmigration. Heading out into a whole new world as a Summoner — with his first Follower being the very goddess who brought him over! — Kelvin begins his new life as an adventurer, and it isn't long before he discovers his hidden disposition as a battle junkie. From the Black Knight of the Ancient Castle of Evil Spirits to the demon within the Hidden Cave of the Sage, he revels in the fight against one formidable foe after another. Join this OP adventurer in an exhilarating and epic saga as he and his allies carve their way into the annals of history!",
+      "popularity": 181.488,
+      "poster_path": "/ie1zLLjtspacRfpcVkLvNt7mUx9.jpg",
+      "vote_average": 6.3,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/nIRkbnnSHZhbjR01ZEKFZGyCoUc.jpg",
+      "first_air_date": "2012-10-10",
+      "genre_ids": [
+        18
+      ],
+      "id": 44006,
+      "name": "Chicago Fire",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chicago Fire",
+      "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+      "popularity": 233.684,
+      "poster_path": "/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1806
+    },
+    {
+      "backdrop_path": "/wg7K98aSLLF3V8ve7uIqE93QnE0.jpg",
+      "first_air_date": "2005-11-20",
+      "genre_ids": [
+        35,
+        10763
+      ],
+      "id": 12301,
+      "name": "Naked News",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Naked News",
+      "overview": "A real television newscast, the show is prepared in Toronto and runs daily, with 25-minute episodes 6 days per week. The female anchors read the news fully nude or strip as they present their news segments.",
+      "popularity": 254.832,
+      "poster_path": "/kZZl47H5zlM8z1Rqe39h46NC17K.jpg",
+      "vote_average": 6,
+      "vote_count": 77
+    },
+    {
+      "backdrop_path": "/t0GTpqzNZLa9xSHhPnUFw3M0EvZ.jpg",
+      "first_air_date": "2014-01-08",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 58841,
+      "name": "Chicago P.D.",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chicago P.D.",
+      "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+      "popularity": 196.339,
+      "poster_path": "/onamGdLjKolUFwIW7io11IDH0uJ.jpg",
+      "vote_average": 8.4,
+      "vote_count": 1947
+    },
+    {
+      "backdrop_path": "/k5cf0dZsmsXYeoBshOmINK62jKb.jpg",
+      "first_air_date": "2022-05-10",
+      "genre_ids": [
+        10766,
+        18
+      ],
+      "id": 196614,
+      "name": "Hasta que la plata nos separe",
+      "origin_country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "original_name": "Hasta que la plata nos separe",
+      "overview": "Rafael Méndez is an ethical and noble man who dedicates his life to selling household items and is dating his neighbor Vicky Pardo. Alejandra Maldonado is a successful businesswoman and manager of the Ramenautos car dealership, she is engaged to Luciano Valenzuela. Rafael and Alejandra suffer a car accident that will trigger a series of events that will bring them closer. Rafael must pay off the debt he has left Alejandra with after the accident and this closeness will lead them to fall in love despite their social differences. However, circumstances and their respective families and partners will do everything possible to prevent their love from happening.",
+      "popularity": 263.841,
+      "poster_path": "/wWlPY4zmuJDelcOwb4ph9lGo5Ew.jpg",
+      "vote_average": 8.4,
+      "vote_count": 82
+    },
+    {
+      "backdrop_path": "/zjtcZVj62ZEYVSXUOeF3McuWqxy.jpg",
+      "first_air_date": "2018-10-16",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 79744,
+      "name": "The Rookie",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Rookie",
+      "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "popularity": 198.53,
+      "poster_path": "/gSGj4zhuFllpZEkHGdsBMV2BGsq.jpg",
+      "vote_average": 8.2,
+      "vote_count": 1018
+    },
+    {
+      "backdrop_path": "/c6zePSJ4PjkFeI7wVRN7Lp451nV.jpg",
+      "first_air_date": "2022-04-09",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 126437,
+      "name": "Aoashi",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "アオアシ",
+      "overview": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?",
+      "popularity": 168.202,
+      "poster_path": "/etMqelj6xjhOl84gkiQq8S1mDXJ.jpg",
+      "vote_average": 7.6,
+      "vote_count": 11
+    },
+    {
+      "backdrop_path": "/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "first_air_date": "2015-07-07",
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 64196,
+      "name": "Overlord",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "オーバーロード",
+      "overview": "In the year 2138, virtual reality gaming is booming. Yggdrasil, a popular online game is quietly shut down one day. However, one player named Momonga decides to not log out. Momonga is then transformed into the image of a skeleton as \"the most powerful wizard.\" The world continues to change, with non-player characters (NPCs) beginning to feel emotion. Having no parents, friends, or place in society, this ordinary young man Momonga then strives to take over the new world the game has become.",
+      "popularity": 251.01,
+      "poster_path": "/aSjpVCanDAwCopdjIgWwrxOWnWf.jpg",
+      "vote_average": 8.6,
+      "vote_count": 605
+    },
+    {
+      "backdrop_path": "/wOFDBVfmrSsDDdBnDxm1SAv1kVo.jpg",
+      "first_air_date": "2022-07-24",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 202160,
+      "name": "The Maid I Hired Recently Is Mysterious",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "最近雇ったメイドが怪しい",
+      "overview": "There’s something really strange about the maid I just hired! No normal person could be so beautiful, or cook such amazingly delicious food, or know exactly what I want before I even ask. She must be using magic—right, a spell is the only thing that can explain why my chest feels so tight whenever I look at her. I swear, I’m going to get to the bottom of what makes this maid so...mysterious!",
+      "popularity": 130.448,
+      "poster_path": "/iGv5HouvyQvWF1SCEzzMtej9zhP.jpg",
+      "vote_average": 4.8,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/agHWlf8BUd9yyPYU64FLxkm596E.jpg",
+      "first_air_date": "2022-09-15",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 125940,
+      "name": "Vampire Academy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Vampire Academy",
+      "overview": "In a world of privilege and glamour, two young women’s friendship transcends their strikingly different classes as they prepare to complete their education and enter royal vampire society. Based on the young adult novels by Richelle Mead.",
+      "popularity": 234.846,
+      "poster_path": "/iPGKF9Eh2Dd8ZsiXGhnFXYiGYpB.jpg",
+      "vote_average": 7.2,
+      "vote_count": 14
+    },
+    {
+      "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+      "first_air_date": "2015-09-08",
+      "genre_ids": [
+        35,
+        10767
+      ],
+      "id": 63770,
+      "name": "The Late Show with Stephen Colbert",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Late Show with Stephen Colbert",
+      "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.",
+      "popularity": 163.825,
+      "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "vote_average": 6.5,
+      "vote_count": 173
+    },
+    {
+      "backdrop_path": "/rRjxJJvr0xrcDzRUhLufMNDvq1F.jpg",
+      "first_air_date": "2017-07-16",
+      "genre_ids": [
+        10764,
+        10764
+      ],
+      "id": 73085,
+      "name": "Bigg Boss Telugu",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "te",
+      "original_name": "బిగ్ బాస్",
+      "overview": "The Telugu version of the reality show where a number of contestants (known as \"housemates\") live in a purpose-built house and are isolated from the rest of the world. Each week, housemates nominate two of their fellow housemates for eviction, and the housemates who receive the most nominations faces a public vote out.",
+      "popularity": 176.779,
+      "poster_path": "/eTdAtEVzFLVLkwTBf3dCxp5E4hl.jpg",
+      "vote_average": 6.5,
+      "vote_count": 8
+    },
+    {
+      "backdrop_path": "/pXjpqrx65mlQskf9mfTWSszYODn.jpg",
+      "first_air_date": "2020-05-18",
+      "genre_ids": [
+        10765,
+        10759,
+        18
+      ],
+      "id": 80986,
+      "name": "DC's Stargirl",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "DC's Stargirl",
+      "overview": "Courtney Whitmore, a smart, athletic and above all else kind girl, discovers her step-father has a secret: he used to be the sidekick to a superhero. \"Borrowing\" the long-lost hero’s cosmic staff, she becomes the unlikely inspiration for an entirely new generation of superheroes.",
+      "popularity": 158.224,
+      "poster_path": "/cy6NrjLr0thF4hinCg5p5GURdz9.jpg",
+      "vote_average": 7.8,
+      "vote_count": 952
+    },
+    {
+      "backdrop_path": "/mFy2U5HVQ81hewd68897llwkwlc.jpg",
+      "first_air_date": "1997-04-01",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 60572,
+      "name": "Pokémon",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ポケットモンスター",
+      "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+      "popularity": 168.435,
+      "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1218
+    },
+    {
+      "backdrop_path": "/gUC0n2ASR69Aqm8jZD80k2yafpT.jpg",
+      "first_air_date": "2022-04-14",
+      "genre_ids": [
+        10764
+      ],
+      "id": 154521,
+      "name": "The Kardashians",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Kardashians",
+      "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+      "popularity": 136.65,
+      "poster_path": "/3cJgB4fOfgHKNoHgtT3h1Qqkvxq.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1350
+    },
+    {
+      "backdrop_path": "/rLt2ZvpYJ210QcG6AAzcDzoHxzn.jpg",
+      "first_air_date": "2014-12-17",
+      "genre_ids": [
+        16,
+        10762,
+        10751
+      ],
+      "id": 74280,
+      "name": "Hey Duggee",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Hey Duggee",
+      "overview": "Animated preschool series about a clubhouse that is run by a big dog called Duggee.",
+      "popularity": 213.945,
+      "poster_path": "/y0r27LkhX6AZNqo2Q5FUYmwi5wz.jpg",
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/fzJsAkCfWIVF0tufwBa78TN9QxN.jpg",
+      "first_air_date": "2022-07-08",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 138357,
+      "name": "Call of the Night",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "よふかしのうた",
+      "overview": "Nanakusa is a vampire. That's okay with human Ko. He wants to be one too. But transformation doesn't come that easily...\n\nWhen Nazuna invites Ko to spend the night at her place in an abandoned building, he's stoked! But then he awakens to kisses on his neck with a little too much bite to them... Is it just the delicious taste of his blood that makes her meet him night after night for late-night adventures, conversation and...naps? Or something else? Then, when a cute girl from Yamori's past shows up and competes for his attention, his budding relationship with the undead is put to the test!",
+      "popularity": 151.576,
+      "poster_path": "/rDhwDG2ii8c3nCcfUNp6mogGQ93.jpg",
+      "vote_average": 6.9,
+      "vote_count": 12
+    }
+  ],
+  "total_pages": 57,
+  "total_results": 1134
+},{
+  "_id": {
+    "$oid": "632965d2bed2a789dc0cf439"
+  },
+  "page": 4,
+  "results": [
+    {
+      "backdrop_path": "/quBm72EXhp6RWdf19p7xmQ1IUgT.jpg",
+      "first_air_date": "2022-08-01",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 122369,
+      "name": "Fuuto PI",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "風都探偵",
+      "overview": "Some time after events of Kamen Rider W, Shotaro Hidari and Phillip solve crimes and fight evil as superhero detectives in the windy city of Fuuto.",
+      "popularity": 100.777,
+      "poster_path": "/oQpK0067z4owkPnFiulzauu5P7u.jpg",
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/uyilhJ7MBLjiaQXboaEwe44Z0jA.jpg",
+      "first_air_date": "1996-07-22",
+      "genre_ids": [
+        10763,
+        35
+      ],
+      "id": 2224,
+      "name": "The Daily Show with Trevor Noah",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Daily Show with Trevor Noah",
+      "overview": "Trevor Noah and The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "popularity": 209.371,
+      "poster_path": "/nz5fAg1OomLZ7fxiM4RnLbJxppc.jpg",
+      "vote_average": 6.4,
+      "vote_count": 403
+    },
+    {
+      "backdrop_path": "/mtvGAsY45DiPIvyppwzkIT8Sx1K.jpg",
+      "first_air_date": "1990-09-13",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 549,
+      "name": "Law & Order",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order",
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "popularity": 169.005,
+      "poster_path": "/l7qr5Q5iJXeja9iDmdXagoUZ0Vm.jpg",
+      "vote_average": 7.6,
+      "vote_count": 374
+    },
+    {
+      "backdrop_path": "/6hAAq3GUWMwD0yJpvBBnpJpCs3d.jpg",
+      "first_air_date": "2012-01-11",
+      "genre_ids": [
+        10762,
+        10759,
+        16,
+        35,
+        10751,
+        10765
+      ],
+      "id": 38693,
+      "name": "Ninjago: Masters of Spinjitzu",
+      "origin_country": [
+        "US",
+        "DK"
+      ],
+      "original_language": "en",
+      "original_name": "Ninjago: Masters of Spinjitzu",
+      "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+      "popularity": 124.656,
+      "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+      "vote_average": 7.8,
+      "vote_count": 622
+    },
+    {
+      "backdrop_path": "/kG7GwGBHpCI6lA6SaEydKHHOxkU.jpg",
+      "first_air_date": "2020-08-06",
+      "genre_ids": [
+        10765,
+        16,
+        35
+      ],
+      "id": 85948,
+      "name": "Star Trek: Lower Decks",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Star Trek: Lower Decks",
+      "overview": "The lives of the support crew serving on one of Starfleet's least important ships, the U.S.S. Cerritos, in 2380. Ensigns Mariner, Boimler, Rutherford and Tendi have to keep up with their duties and their social lives, often while the ship is being rocked by a multitude of sci-fi anomalies.",
+      "popularity": 127.037,
+      "poster_path": "/vf3E86GYhx40DuDvmKtFiX1qWPb.jpg",
+      "vote_average": 7.3,
+      "vote_count": 140
+    },
+    {
+      "backdrop_path": "/stD2BtJHwc8xolJVtglrETEjD57.jpg",
+      "first_air_date": "2018-09-25",
+      "genre_ids": [
+        80,
+        18,
+        10759
+      ],
+      "id": 80748,
+      "name": "FBI",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "FBI",
+      "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+      "popularity": 190.665,
+      "poster_path": "/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg",
+      "vote_average": 8,
+      "vote_count": 625
+    },
+    {
+      "backdrop_path": "/p2eZlGwd8OjkWpwD2hSoBiIlHBZ.jpg",
+      "first_air_date": "2022-04-15",
+      "genre_ids": [
+        16,
+        18,
+        9648
+      ],
+      "id": 117933,
+      "name": "Summer Time Rendering",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "サマータイムレンダ",
+      "overview": "Upon hearing of Ushio's death, Shinpei returns to his hometown of Wakayama City on Hitogashima and reunites with his childhood friend's family. The funeral goes smoothly, but under the surface something strange is brewing on the island. What mysteries await him on this secluded summer island?",
+      "popularity": 101.918,
+      "poster_path": "/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
+      "vote_average": 8.3,
+      "vote_count": 21
+    },
+    {
+      "backdrop_path": "/rv5gu2gYbOEYoArzH7bqJuMxvBB.jpg",
+      "first_air_date": "2021-01-25",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 115646,
+      "name": "Lisa",
+      "origin_country": [
+        "BE"
+      ],
+      "original_language": "nl",
+      "original_name": "Lisa",
+      "overview": "",
+      "popularity": 188.321,
+      "poster_path": "/w2nOl7KhwcUj11YxEi9Nknj9cqu.jpg",
+      "vote_average": 6.4,
+      "vote_count": 15
+    },
+    {
+      "backdrop_path": "/mlX6SG7lJ0BiLui5x5Nu4agetBA.jpg",
+      "first_air_date": "2014-05-26",
+      "genre_ids": [
+        10766
+      ],
+      "id": 82708,
+      "name": "The First Years",
+      "origin_country": [],
+      "original_language": "nl",
+      "original_name": "Brugklas",
+      "overview": "The First Years is a contemporary scripted reality serie about the first year of secondary school with recognizable and poignant stories about the fascinations, challenges and problems of first graders. The stories are based on true events, which makes them very recognizable for young viewers. But also uplifting: love, first kiss…",
+      "popularity": 187.583,
+      "poster_path": null,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/lZXv60f37JoVwwo88J9wXGUHNRJ.jpg",
+      "first_air_date": "2022-07-10",
+      "genre_ids": [
+        16,
+        35,
+        10765
+      ],
+      "id": 129195,
+      "name": "Parallel World Pharmacy",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "異世界薬局",
+      "overview": "A young pharmacologist and researcher in Japan died from overworking, and was reincarnated in a Medieval Parallel Europe. He was reincarnated as a 10-year-old apprentice to a famous Royal Court pharmacist, had attained an inhuman skills of ability to see through disease, material creation, and material destruction. In a society in which dubious medical practice are rampant, price gouging thru the monopoly of the pharmacist guild, and good medicine aren't available to the commoners. He was recognized by the Emperor at that time and opened a Pharmacy at the corner of the town.\n\nHe will wipe out the fraud that has swept the world, and deliver to the commoners a truly effective medicine that was developed using present day pharmacology. Thus the boy pharmacist will cheat by using his previous knowledge to create innovative medicines while helping the people of the parallel world, a story about living his new life to the fullest this time.",
+      "popularity": 111.551,
+      "poster_path": "/52PZhMEggFTd4YBsnpDZZLW44xQ.jpg",
+      "vote_average": 5.7,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/xgh3QCuhNXuJhjQE93rSLAZxMre.jpg",
+      "first_air_date": "2022-07-08",
+      "genre_ids": [
+        16,
+        10759,
+        18
+      ],
+      "id": 195924,
+      "name": "Shine On! Bakumatsu Bad Boys!",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ブッチギレ！",
+      "overview": "In the era when samurai controlled Japan... The Masked Demons annihilated all but one member of the Shinsengumi, who had worked to maintain the peace and public order in Kyoto.  Seven criminals are chosen as substitutes for the deceased Shinsengumi members, and they are led by Ichibanboshi, whose parents were also killed by the Masked Demons. He becomes a substitute for Commander Isami Kondo and goes after the Masked Demons with the other substitutes to avenge his parents' deaths.  Former criminals rise up to restore peace and order as their crazy story begins!  Now is the time to shine the brightest!",
+      "popularity": 115.804,
+      "poster_path": "/n52m4tqLLn6CsI5vXIMDCNQvhMz.jpg",
+      "vote_average": 4.7,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/vIDHmF9U0gvQ1Oml9lV1LafHwqb.jpg",
+      "first_air_date": "1963-04-01",
+      "genre_ids": [
+        10766
+      ],
+      "id": 987,
+      "name": "General Hospital",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "General Hospital",
+      "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+      "popularity": 171.245,
+      "poster_path": "/tYaWB1H4Isq4BoAjxFWMjhaEP9W.jpg",
+      "vote_average": 5.6,
+      "vote_count": 186
+    },
+    {
+      "backdrop_path": "/r8CGqB8IJNbA1IruHWquS7YttNB.jpg",
+      "first_air_date": "1995-10-23",
+      "genre_ids": [
+        10766
+      ],
+      "id": 966,
+      "name": "Hollyoaks",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Hollyoaks",
+      "overview": "The daily soap that follows the loves, lives and misdemeanours of a group of people living in the Chester village of Hollyoaks where anything could, and frequently does, happen...",
+      "popularity": 171.181,
+      "poster_path": "/bpmLMZP3M1vLujPqHnOTnKVjRJY.jpg",
+      "vote_average": 5.5,
+      "vote_count": 46
+    },
+    {
+      "backdrop_path": "/rHuXgDmrv4vMKgQZ6pu2E2iLJnM.jpg",
+      "first_air_date": "2010-07-11",
+      "genre_ids": [
+        35,
+        10764
+      ],
+      "id": 33238,
+      "name": "Running Man",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "런닝맨",
+      "overview": "These days, variety entertainment is gradually disappearing. It is one of Korea's representative variety entertainment shows that has been in charge of Sunday evenings for over 10 years. In this program, many stars and members play games and missions together. It is characterized by going around several places. In particular, this program focuses solely on laughter among the many fun elements of entertainment.\n\nOpen your eyes! Big fun enters!\n\nOpen your mouth!  A big smile enters!\n\nOpen your mind! Instructive lesson enters!",
+      "popularity": 118.69,
+      "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+      "vote_average": 8.4,
+      "vote_count": 139
+    },
+    {
+      "backdrop_path": "/rhXkhRXxaqNFJssbEskwo9UVR5g.jpg",
+      "first_air_date": "2020-10-02",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 96884,
+      "name": "Dragon Quest: The Adventure of Dai",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ドラゴンクエスト ダイの大冒険",
+      "overview": "A long time ago, there was a valiant swordsman who came to be known simply as \"the hero.\" There was a demon who has caused people suffering. The hero and his companions arrived to challenge the demon to a battle and by combining their powers, the battle was brought swift conclusion. With no one around to cause trouble, the island became a quiet place where everyone could live together in peace. Several years later, the demon is revived. Our present-day protagonist, Dai, lives on a remote island in the southern seas and dreams of becoming a great hero. When he hears about the demon's revival, Dai and his friends take it upon themselves to stop him and the evil force that revived him. Along the way, Dai discovers the identity of \"the hero,\" the truth behind the evil force who revived the demon, and Dai's own hidden powers that surface in times of peril.",
+      "popularity": 111.922,
+      "poster_path": "/i28TVlLozR09hqkGsSlu5wa1X2J.jpg",
+      "vote_average": 8.3,
+      "vote_count": 98
+    },
+    {
+      "backdrop_path": "/59oSpvEyyNGTIC0BTHMOgH4ocwO.jpg",
+      "first_air_date": "2022-09-05",
+      "genre_ids": [
+        18
+      ],
+      "id": 209545,
+      "name": "Rising Lady",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "她们的名字",
+      "overview": "The story centers around the three ladies, the career elite Lei Li, the full-time wife Ren Duo Mei, and the socially adorable Shen Jia Nan are facing dilemma in the workplace and life. They are of different ages and personalities, and has no overlapping experiences, but became close friends who knew each other, fight each other and loved each other. Together, they face optimistically amidst the thorns along the way, witnessing each other growth, and join hands to embark on a new journey to find happiness.",
+      "popularity": 155.593,
+      "poster_path": "/3cogkHJc3JHcwWubFAifm2x477A.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/ddDlAwc0UrnYQ94IMHg5CQULebO.jpg",
+      "first_air_date": "2008-01-24",
+      "genre_ids": [
+        9648,
+        18
+      ],
+      "id": 12786,
+      "name": "Murdoch Mysteries",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Murdoch Mysteries",
+      "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+      "popularity": 87.379,
+      "poster_path": "/skoiOr9U46XcY5zzbUn4w8sHWV6.jpg",
+      "vote_average": 7.7,
+      "vote_count": 192
+    },
+    {
+      "backdrop_path": "/mBxsapX4DNhH1XkOlLp15He5sxL.jpg",
+      "first_air_date": "1999-10-20",
+      "genre_ids": [
+        10759,
+        35,
+        16
+      ],
+      "id": 37854,
+      "name": "One Piece",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ワンピース",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates. Monkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
+      "popularity": 110.498,
+      "poster_path": "/fcXdJlbSdUEeMSJFsXKsznGwwok.jpg",
+      "vote_average": 8.7,
+      "vote_count": 3252
+    },
+    {
+      "backdrop_path": "/9c3MBr4wbfRoBvx5qjJRKocifB5.jpg",
+      "first_air_date": "2019-07-19",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 90855,
+      "name": "SAINT SEIYA: Knights of the Zodiac",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "SAINT SEIYA: Knights of the Zodiac",
+      "overview": "Seiya and the Knights of the Zodiac rise again to protect the reincarnation of the goddess Athena, but a dark prophecy hangs over them all.",
+      "popularity": 105.538,
+      "poster_path": "/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg",
+      "vote_average": 7.4,
+      "vote_count": 537
+    },
+    {
+      "backdrop_path": "/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
+      "first_air_date": "2022-07-02",
+      "genre_ids": [
+        16,
+        10759,
+        35
+      ],
+      "id": 154494,
+      "name": "Lycoris Recoil",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "リコリス・リコイル",
+      "overview": "For these peaceful days――there’s a secret behind it all. A secret organization that prevents crimes: “DA - Direct Attack”. And their group of all-girl agents: “Lycoris”. This peaceful everyday life is all thanks to these young girls. The elite Chisato Nishikigi is the strongest Lycoris agent of all time. Alongside is Takina Inoue, the talented but mysterious Lycoris. They work together at one of its branches–Café LycoReco. Here, the orders this café takes range from coffee and sweets to childcare, shopping, teaching Japanese to foreign students, etc. It's mostly tasks unbefitting of Lycoris. The free-spirited and optimistic pacifist, Chisato. And the cool-headed and efficient Takina. The chaotic everyday lives of this mismatched duo begin!",
+      "popularity": 85.719,
+      "poster_path": "/dfGf0Ti3BEKpBpVCVtEXKTjQjNR.jpg",
+      "vote_average": 7,
+      "vote_count": 22
+    }
+  ],
+  "total_pages": 57,
+  "total_results": 1134
+},{
+  "_id": {
+    "$oid": "632965d5bed2a789dc0cf43a"
+  },
+  "page": 5,
+  "results": [
+    {
+      "backdrop_path": "/wtONQBI3nbqFNOT2RoXXBgckMeX.jpg",
+      "first_air_date": "1998-11-30",
+      "genre_ids": [
+        99
+      ],
+      "id": 75415,
+      "name": "Galileo",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Galileo",
+      "overview": "This daily German magazine show delivers interesting facts on numerous topics centering around technology, life, and bizarre knowledge.",
+      "popularity": 142.874,
+      "poster_path": "/diwwxmW87Mv47UkA2YQ0MliRlON.jpg",
+      "vote_average": 4.3,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/sRCTG3J52BQeZQY35KxsJUNNblp.jpg",
+      "first_air_date": "2021-09-20",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 124271,
+      "name": "NCIS: Hawai'i",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "NCIS: Hawai'i",
+      "overview": "Jane Tennant, the first female Special Agent in Charge of NCIS Pearl Harbor, and her unwavering team of specialists balance duty to family and country while investigating high-stakes crimes involving military personnel, national security and the mysteries of the sun-drenched island paradise itself.",
+      "popularity": 77.509,
+      "poster_path": "/kYqsfXAMJGnw5EPtnyTtDikl9tw.jpg",
+      "vote_average": 8.1,
+      "vote_count": 140
+    },
+    {
+      "backdrop_path": "/bH9Bmmf2tmT47xRY5T1jcYaMZyi.jpg",
+      "first_air_date": "2022-07-03",
+      "genre_ids": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "id": 196040,
+      "name": "Engage Kiss",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "Engage Kiss",
+      "overview": "Bayron City -- a Mega-Float type city in the Pacific Ocean, which doesn't belong to any particular nation. As the mine for Orgonium, a new energy resource, this city is the most noticed in the world right now, and here special cases caused by demons called \"D Hazards\" has been occurring frequently. Only a handful of people know about the existence of D Hazards. They are handled by PMCs (Private Military Companies). Shu is a young man living in Bayron City who runs such a company, but his company is tiny. On top of that, he cherry-picks his jobs, so he is always in a bind for money. His life, both publicly and privately, is being supported by the beautiful high school girl Kisara who attends a school in Bayron City.",
+      "popularity": 80.044,
+      "poster_path": "/irBMUE8A5M78qAzCmr0bEVdmEm7.jpg",
+      "vote_average": 6.3,
+      "vote_count": 10
+    },
+    {
+      "backdrop_path": "/rFdBQdtOoeIVzmXbzSZEo0GIqoE.jpg",
+      "first_air_date": "2021-01-27",
+      "genre_ids": [
+        10765
+      ],
+      "id": 96580,
+      "name": "Resident Alien",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Resident Alien",
+      "overview": "Crash-landed alien Harry takes on the identity of a small-town Colorado doctor. Arriving with a secret mission, he starts off living a simple life…but things get a bit rocky when he’s roped into solving a local murder and realizes he needs to assimilate into his new world. As he does, he begins to wrestle with the moral dilemma of his mission and asking the big life questions like: “Are human beings worth saving?” and “Why do they fold their pizza before eating it?”",
+      "popularity": 106.021,
+      "poster_path": "/uJMbW9d1QqoJWmGOqJv8mAbegac.jpg",
+      "vote_average": 8,
+      "vote_count": 465
+    },
+    {
+      "backdrop_path": "/xfEM3mn4BYZbe0Thns2QlWvBBgA.jpg",
+      "first_air_date": "2014-09-27",
+      "genre_ids": [
+        10764
+      ],
+      "id": 66084,
+      "name": "Acapulco Shore",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "Acapulco Shore",
+      "overview": "A reality-based look at the vapid lives of several Mexican 20-somethings and their respective friends and/or hook-ups during their stay in Acapulco for a Summer vacation.",
+      "popularity": 107.008,
+      "poster_path": "/fSRyd3ZNZY41awncagc8oqV739M.jpg",
+      "vote_average": 7.8,
+      "vote_count": 922
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2008-06-03",
+      "genre_ids": [
+        10767
+      ],
+      "id": 23915,
+      "name": "Markus Lanz",
+      "origin_country": [
+        "DE"
+      ],
+      "original_language": "de",
+      "original_name": "Markus Lanz",
+      "overview": "",
+      "popularity": 139.681,
+      "poster_path": "/tr4cLn4ecRASV0SPM9FRv0AJOQF.jpg",
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/vk6bPEyGdublRolHie9h41RiKwP.jpg",
+      "first_air_date": "2022-09-03",
+      "genre_ids": [
+        18,
+        9648,
+        10759
+      ],
+      "id": 134675,
+      "name": "Little Women",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "작은 아씨들",
+      "overview": "Missing ₩70 billion appears to three sisters who grew up in absolute poverty but with a close bond. Entangled in a conspiracy that involves the rich and powerful, three sisters who wanted to live like everyone else confront a life task whether to keep or to return the money.",
+      "popularity": 76.783,
+      "poster_path": "/xRTkSIL7vxQcAvrod9AX5RwMfcX.jpg",
+      "vote_average": 9.7,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/sLJpc8uiSRR9Ly3OKCowRmA6yoR.jpg",
+      "first_air_date": "2021-05-10",
+      "genre_ids": [],
+      "id": 125147,
+      "name": "Unbeatable",
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Unbeatable",
+      "overview": "Jason Manford hosts the quiz show where players try to find the unbeatable answer.",
+      "popularity": 130.022,
+      "poster_path": "/hjdb1MaflaSLpQzJgDxlm6FH06X.jpg",
+      "vote_average": 4,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/2EwN8QwyJHIUtbWdfUU8Pohhk7N.jpg",
+      "first_air_date": "2019-10-28",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 86374,
+      "name": "War of the Worlds",
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "en",
+      "original_name": "War of the Worlds",
+      "overview": "When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world’s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question – who are these attackers and why are they hell-bent on our destruction?",
+      "popularity": 64.344,
+      "poster_path": "/yThmbQkxSzW4HHdAaoj8RYHFH3i.jpg",
+      "vote_average": 7.4,
+      "vote_count": 706
+    },
+    {
+      "backdrop_path": "/6slPhy6cI8SxH9VgqyAErldJGxx.jpg",
+      "first_air_date": "2015-11-17",
+      "genre_ids": [
+        18
+      ],
+      "id": 62650,
+      "name": "Chicago Med",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chicago Med",
+      "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+      "popularity": 106.535,
+      "poster_path": "/dzRU492K7yWwiEqVnjm4CurJmn2.jpg",
+      "vote_average": 8.4,
+      "vote_count": 875
+    },
+    {
+      "backdrop_path": "/aRubZYroKc6dWLhXMpFPjucbGap.jpg",
+      "first_air_date": "2022-08-03",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 208571,
+      "name": "Here Is My Exclusive Indulge 2",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "给你我的独家宠爱 第二季 2",
+      "overview": "In order to take care of her frail mother and earn medical expenses, Yun Xiang Xiang created a girl comic based on the famous entrepreneur Fu Si Han. Fu Si Han discovered it and held the comics company responsible. In order to avoid being held accountable, Yun Xiang Xiang approached Fu Si Han to ask for forgiveness. Fu Si Han made an unbelievable proposal: pretend to be his fiancee!",
+      "popularity": 98.138,
+      "poster_path": "/ahbtFrUNpoduxG8nIwQ2NZKd8sG.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/zHcOjSiEOtV553eK2ldZJevUHvO.jpg",
+      "first_air_date": "2022-07-06",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 129516,
+      "name": "My Stepmom's Daughter Is My Ex",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "継母の連れ子が元カノだった",
+      "overview": "Ah, high school. Is there any better place to start fresh after a horrible middle school relationship? Nope! Not unless your ex ends up at the same school as you and is now your stepsibling. What was supposed to be a sanctuary of peace where I could avoid ever seeing her again has become a living nightmare! Everywhere I look, I see her—in my house, in my school, in my class. There's no escape! She even claims that she's the older sibling. Like hell she is!\n\nBut I won't lose to her. After all, I'm the older brother in this new family situation. That's right, we're family now. No matter how much we may have thought we loved each other before, we saw one another's true colors and realized we weren't meant for each other. That's why even though we may keep up a buddy-buddy sibling act for the sake of our parents, things will never go back to the way they used to be.",
+      "popularity": 100.578,
+      "poster_path": "/54foNXgeXgOsLnWbPJuF42eWBSH.jpg",
+      "vote_average": 6.3,
+      "vote_count": 9
+    },
+    {
+      "backdrop_path": "/h8gWQSr7EXd7vap1D42Cp9IAIiT.jpg",
+      "first_air_date": "2018-01-21",
+      "genre_ids": [
+        18
+      ],
+      "id": 74016,
+      "name": "The Resident",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Resident",
+      "overview": "A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.",
+      "popularity": 124.761,
+      "poster_path": "/yjsPrZfSz69HbnYZcRHNBdTZOSA.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1091
+    },
+    {
+      "backdrop_path": "/jWC8mtEBt2qeJY3Vm8AGzWDnYVp.jpg",
+      "first_air_date": "2021-09-21",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 121658,
+      "name": "FBI: International",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "FBI: International",
+      "overview": "Follow the elite agents of the FBI's International Fly Team as they travel the world with the mission of protecting Americans wherever they may be.",
+      "popularity": 124.379,
+      "poster_path": "/jyVOAhJzPy7jP1yB6ujIhvbX2Ru.jpg",
+      "vote_average": 7.7,
+      "vote_count": 86
+    },
+    {
+      "backdrop_path": "/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
+      "first_air_date": "2003-01-27",
+      "genre_ids": [
+        10766
+      ],
+      "id": 14750,
+      "name": "Na Wspólnej",
+      "origin_country": [
+        "PL"
+      ],
+      "original_language": "pl",
+      "original_name": "Na Wspólnej",
+      "overview": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
+      "popularity": 122.912,
+      "poster_path": "/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
+      "vote_average": 3.3,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/kt7cId9GV8mbKKW8I9cpeVFh7Fn.jpg",
+      "first_air_date": "2009-09-17",
+      "genre_ids": [
+        35,
+        10759,
+        16
+      ],
+      "id": 10283,
+      "name": "Archer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Archer",
+      "overview": "Sterling Archer is the world's most daunting spy. He works for ISIS, a spy agency run by his mother. In between dealing with his boss and his co-workers - one of whom is his ex-girlfriend - Archer manages to annoy or seduce everyone that crosses his path. His antics are only excusable because at the end of the day, he still somehow always manages to thwart whatever crises was threatening mankind.",
+      "popularity": 100.652,
+      "poster_path": "/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+      "vote_average": 7.9,
+      "vote_count": 925
+    },
+    {
+      "backdrop_path": "/4Ol8Z8c1EMa6ThTcq3juUVbgrpA.jpg",
+      "first_air_date": "2018-09-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 80350,
+      "name": "New Amsterdam",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "New Amsterdam",
+      "overview": "The new medical director breaks the rules to heal the system at America's oldest public hospital. Max Goodwin sets out to tear up the bureaucracy and provide exceptional care, but the doctors and staff are not so sure he can succeed. They've heard this before. Not taking \"no\" for an answer, Dr. Goodwin's instinctive response to problems large and small is four simple words: \"How can I help?\" He has to disrupt the status quo and prove he'll stop at nothing to breathe new life into this underfunded and underappreciated hospital, returning it to the glory that put it on the map.",
+      "popularity": 117.41,
+      "poster_path": "/50zBc18T7wK1EQYDhkpau3YJIPy.jpg",
+      "vote_average": 8.5,
+      "vote_count": 767
+    },
+    {
+      "backdrop_path": "/tC51lHaYqyMKUE1W4rcr2vhi9QG.jpg",
+      "first_air_date": "2022-04-24",
+      "genre_ids": [
+        16,
+        35
+      ],
+      "id": 122587,
+      "name": "A Couple of Cuckoos",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "カッコウの許嫁",
+      "overview": "16-year-old super-studier Nagi Umino, second-year student at the Megurogawa Academy high school, was switched at birth. On his way to a dinner to meet his birth parents, he accidentally meets the brash, outspoken, Erika Amano, who is determined to make Nagi her fake boyfriend as she never wants to actually marry. But once Nagi makes it to dinner, he finds his parents have decided to resolve the hospital switch by conveniently having him marry the daughter his birth parents raised...who turns out to be none other than Erika herself!",
+      "popularity": 85.042,
+      "poster_path": "/pQWl5ZwKTebT1J6lNekeUyIqGDQ.jpg",
+      "vote_average": 7.7,
+      "vote_count": 14
+    },
+    {
+      "backdrop_path": "/hrgg8SwWv85wJq3YwThPKi20Yts.jpg",
+      "first_air_date": "2020-01-07",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 94372,
+      "name": "FBI: Most Wanted",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "FBI: Most Wanted",
+      "overview": "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau’s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
+      "popularity": 114.257,
+      "poster_path": "/3Yyxq2X4ZwUpdwgMvarTuEc87fi.jpg",
+      "vote_average": 7.7,
+      "vote_count": 277
+    },
+    {
+      "backdrop_path": "/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg",
+      "first_air_date": "2022-09-21",
+      "genre_ids": [
+        10765,
+        10759,
+        10768
+      ],
+      "id": 83867,
+      "name": "Andor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Andor",
+      "overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
+      "popularity": 92.226,
+      "poster_path": "/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg",
+      "vote_average": 9,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 57,
+  "total_results": 1134
+},{
+  "_id": {
+    "$oid": "63296d8bbed2a789dc0cf476"
+  },
+  "page": 6,
+  "results": [],
+  "total_pages": 14,
+  "total_results": 276
+}]
